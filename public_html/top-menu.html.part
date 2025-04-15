@@ -1,0 +1,28 @@
+<div class="top-menu">
+	<div class="top-menu--left">
+		<div class="link dropdown">
+			<span>Allmänt</span>
+			<div class="dropdown-content">
+				<div class="dropdown-link">Öppettider</div>
+				<div class="dropdown-link">Kalendarium</div>
+				<div class="dropdown-link">Historia</div>
+				<div class="dropdown-link">Vännationer</div>
+				<div class="dropdown-link">Dokument</div>
+				<div class="dropdown-link">Landskap</div>
+				<div class="dropdown-link">Nyheter</div>
+				<div class="dropdown-link">Sök post</div>
+				<div class="dropdown-link">Trygghet på V-Dala</div>
+				</div>
+		</div>
+		<div class="link">Medlemskap</div>
+		<div class="link">Förmåner</div>
+		<div class="link">Bostad</div>
+	</div>
+	<img src="images/v_dala.png" class="v-dala-logo">
+	<div class="top-menu--right">
+		<div class="link">Engagera dig!</div>
+		<div class="link">Nöje</div>
+		<div class="link">Hyr V-Dala</div>
+		<div class="link">Kontakt</div>
+	</div>
+</div>

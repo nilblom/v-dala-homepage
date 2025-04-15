@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+
+			<INCLUDE "top-menu.html"/>
+
+			<div class="front-image-text-combo">
+				<img class="front-image-text-combo--left" src="images/engagera_dig.png"/>
+				<div class="front-image-text-combo--right">
+					<div class="title">Sök en post på V-Dala!</div>
+					<div class="text">
+						Att söka en post är ett utmärkt steg in i nationsgemenskapen! Under "engagera dig" och "sök en post på nationen" här ovan hittar du mer information om vilka poster som kan sökas just nu, vad de innebär och vilka förmåner de ger.
+					</div>
+				</div>
+			</div>
+
+			<div class="page-banner">Bli medlem i V-Dala nation</div>
+
+			<div class="page-trio">
+				<div class="page-trio--box">
+					<div class="title">Kalendarium</div>
+				</div>
+
+				<div class="page-trio--box middle">
+					<div class="title">Senaste nytt</div>
+				</div>
+
+				<div class="page-trio--box">
+					<div class="title">Användbara länkar</div>
+				</div>
+			</div>
+
+			<div class="page-bottom-duo">
+				<div class="page-bottom-duo--box left">
+					<div class="title">Kontakta V-Dala</div>
+					<div class="text">Kontakta V-Dala nation via 018-133 133 eller online genom vår kontaktsida.</div>
+Besöksadress
+Västmanlands-Dala nation
+S:t Larsgatan 13
+753 11 Uppsala
+Postadress
+Västmanlands-Dala nation
+Box 2062
+750 02 Uppsala
+ facebook instagram
+Alla kontaktuppgifter→
+				</div>
+				<div class="page-bottom-duo--box left">
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
