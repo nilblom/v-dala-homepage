@@ -180,3 +180,15 @@ div {
 	text-align: left;
 	margin-top: 10px;
 }
+
+.page-single {
+	border-radius: 5px;
+	background: white;
+	margin: 8px 0;
+	padding: 20px;
+}
+
+.page-single .title {
+	font-size: 24px;
+	font-weight: bold;
+}
