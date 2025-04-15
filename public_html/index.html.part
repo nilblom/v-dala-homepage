@@ -7,7 +7,7 @@
 	<body>
 		<div class="content">
 
-			<INCLUDE "top-menu.html"/>
+			<include filename="public_html/top-menu.html.part"/>
 
 			<div class="front-image-text-combo">
 				<img class="front-image-text-combo--left" src="images/engagera_dig.png"/>
