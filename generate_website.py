@@ -29,7 +29,9 @@ parser = VDalaHTMLParser()
 
 pages = [
 	r"public_html\index.html.page",
-	r"public_html\event.html.page"
+	r"public_html\event.html.page",
+	r"public_html\opening_hours.html.page",
+	r"public_html\contact.html.page"
 ]
 
 
