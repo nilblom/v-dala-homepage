@@ -41,7 +41,7 @@
 							<div class="row"><span class="day" t="Monday - Thursday">Måndag - Torsdag:</span><span class="time">15:00–18:00</span></div>
 							<div class="row"><span class="day" t="Friday:">Fredag:</span><span class="time">10:00–13:00</span></div>
 						</div>
-						<div class="opening-hours-description" t="Librarian's office hours">Bibliotekariens mottagningstid:</div>
+						<div class="opening-hours-description" t="Librarian's office hours:">Bibliotekariens mottagningstid:</div>
 						<div class="opening-hours-times">
 							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">15:00–18:00</span></div>
 						</div>
