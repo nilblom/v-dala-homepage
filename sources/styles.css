@@ -3,7 +3,6 @@ body {
 	text-align: center;
 	background: linear-gradient(90deg, #034992, #034992bd, #034992);
 	min-width: 1024px;
-	user-select: none;
 }
 
 div {
