@@ -1,0 +1,76 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="calendar page-single">
+				<div class="page-box-title">Öppettider</div>
+				<div style="display: flex;">
+					<div class="page-single--box page-single--leftmost-box">
+						<div class="opening-hours-title">Öppettider på Kuratorsexpeditionen</div>
+						<div class="opening-hours-description">
+							Förste kurators behandlar ärenden gällande medlemskap, försäljning av biljetter och gästkort, stipendier och allmänna frågor om nationen.
+						</div>
+						<civ class="opening-hours-times">
+							<div class="row"><span class="day" t="Monday">Måndag:</span><span class="time">11–13</span></div>
+							<div class="row"><span class="day">Tisdag:</span><span class="time">16–18</span></div>
+							<div class="row"><span class="day">Onsdag:</span><span class="time">14–16</span></div>
+							<div class="row"><span class="day">Torsdag:</span><span class="time">16–18</span></div>
+							<div class="row"><span class="day">Fredag:</span><span class="time">11–13</span></div>
+						</civ>
+					</div>
+					<div class="page-single--box">
+						<div class="opening-hours-title">Stiftelsen Västmanlands-Dala nations studentbostäder</div>
+						<div class="opening-hours-description">
+							Se bostadsstiftelsens öppettider på <a href="https://www.nationsgardarna.se/vastmanlands-dala">Nationsgårdarna.se</a>
+						</div>
+					</div>
+					<div class="page-single--box page-single--rightmost-box">
+						<div class="opening-hours-title">Bibliotek och läsesalar</div>
+						<div class="opening-hours-description">Under terminerna är läsesalarna öppna varje vardag mellan 10 – 18.</div>
+						<div class="opening-hours-description">
+							Bibliotekets öppettider:
+						</div>
+						<div class="opening-hours-times">
+							<div class="row"><span class="day">Måndag - Torsdag:</span><span class="time">15:00–18:00</span></div>
+							<div class="row"><span class="day">Fredag:</span><span class="time">10:00–13:00</span></div>
+						</div>
+						<div class="opening-hours-description">Bibliotekariens mottagningstid:</div>
+						<div class="opening-hours-times">
+							<div class="row"><span class="day">Onsdag:</span><span class="time">15:00–18:00</span></div>
+						</div>
+					</div>
+				</div>
+				<div style="display: flex;">
+					<div class="page-single--box page-single--leftmost-box">
+						<div class="opening-hours-title">Café Avec</div>
+						<div class="opening-hours-times">
+							<div class="row"><span class="day">Tisdag:</span><span class="time">18:00-22:00</span></div>
+						</div>
+					</div>
+					<div class="page-single--box">
+						<div class="opening-hours-title">Carl Larsson-lunchen</div>
+						<div class="opening-hours-times">
+							<div class="row"><span class="day">Onsdag:</span><span class="time">11:30–15:00</span></div>
+						</div>
+					</div>
+					<div class="page-single--box page-single--rightmost-box">
+						<div class="opening-hours-title">Klubbverkets öppettider</div>
+						<div class="opening-hours-times">
+						<div class="row"><span class="day">Tisdag:</span><span class="time">14:00–16:00</span></div>
+						<div class="row"><span class="day">Torsdag:</span><span class="time">14:00–16:00</span></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>

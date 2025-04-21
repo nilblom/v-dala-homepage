@@ -1,0 +1,33 @@
+<div class="page-trio">
+	<div class="page-trio--box next-to-image">
+		<div class="title">Kontakta V-Dala</div>
+		<div class="text" style="border-bottom: 1px solid lightgrey;
+padding-bottom: 10px;" t="Contact V-Dala nation on 018-133 133 or online through or contact page.">Kontakta V-Dala nation via 018-133 133 eller online genom vår kontaktsida.</div>
+		<div style="display: flex; text-align: left;">
+			<div style="width: 100%;">
+				<div style="text-transform: uppercase; margin-top: 10px;">Besöksadress</div>
+				<div class="text text--small">Västmanlands-Dala nation</div>
+				<div class="text text--small">S:t Larsgatan 13</div>
+				<div class="text text--small">753 11 Uppsala</div>
+			</div>
+			<div style="width: 100%;">
+				<div style="text-transform: uppercase; margin-top: 10px;" t="Postal address">Postadress</div>
+				<div class="text text--small">Västmanlands-Dala nation</div>
+				<div class="text text--small">Box 2062</div>
+				<div class="text text--small">750 02 Uppsala</div>
+			</div>
+		</div>
+		<div style="display: flex; text-align: left; margin-top: 20px; text-transform: uppercase; border-bottom: 1px solid lightgrey; padding-bottom: 10px;">
+			<div style="width: 100%;"><a href="https://www.facebook.com/VDala">facebook→</a></div>
+			<div style="width: 100%;"><a href="http://instagram.com/vdalanation">instagram→</a></div>
+		</div>
+		<div class="box-bottom-link">
+			<a href="kontakt.html" t="All contact information →">Alla kontaktuppgifter →</a>
+		</div>
+
+
+	</div>
+
+	<img src="images/huset.jpg" style="border-radius: 0 8px 8px 0; width: 50%;"/>
+
+</div>

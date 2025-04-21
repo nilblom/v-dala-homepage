@@ -1,0 +1,60 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<link rel="stylesheet" href="styles.css">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body>
+		<div class="content">
+
+		<div><a href="../index.html" class="desktop-link">Visa skrivbordsversion</a></div>
+
+		<a class="logo-link" href="index.html"><img src="../images/v_dala.png" class="v-dala-logo"></a>
+
+		<div class="page-title">V-Dala nation</div>
+		
+		<div class="divider-box"><hr class="divider"/></div>
+		
+		<div class="top-menu">
+
+			<div class="link dropdown">
+				<span>Allmänt</span>
+				<div class="dropdown-content">
+					<div class="dropdown-link">Öppettider</div>
+					<div class="dropdown-link"><a href="event.html">Kalendarium</a></div>
+					<div class="dropdown-link">Historia</div>
+					<div class="dropdown-link">Vännationer</div>
+					<div class="dropdown-link">Dokument</div>
+					<div class="dropdown-link">Landskap</div>
+					<div class="dropdown-link">Nyheter</div>
+					<div class="dropdown-link">Sök post</div>
+					<div class="dropdown-link">Trygghet på V-Dala</div>
+				</div>
+				</div>
+			<div class="link">Medlemskap</div>
+			<div class="link">Förmåner</div>
+			<div class="link">Bostad</div>
+			<div class="link">Engagera dig!</div>
+			<div class="link">Nöje</div>
+			<div class="link">Hyr V-Dala</div>
+			<div class="link">Kontakt</div>
+		</div>
+
+		<div class="divider-box"><hr class="divider"/></div>
+
+		<div>
+			<div class="content-box">
+				<div class="content-box--title">Sök en post på V-Dala!</div>
+				<div class="content-box--text">
+					Att söka en post är ett utmärkt steg in i nationsgemenskapen! Under "engagera dig" och "sök en post på nationen" här ovan hittar du mer information om vilka poster som kan sökas just nu, vad de innebär och vilka förmåner de ger.
+				</div>
+			</div>
+
+			<div class="content-box">
+				<include filename="sources\events\17_5_varbal.html.part"/>
+				<include filename="sources\events\16_5_vannation.html.part"/>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,231 @@
+body {
+	font-family: "Josefin Sans";
+	text-align: center;
+	background: linear-gradient(90deg, #034992, #034992bd, #034992);
+	margin: 0;
+	background: white;
+	font-size: 30px;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+@font-face{
+	font-display:swap;
+	font-family:'Josefin Sans';
+	font-style:normal;
+	font-weight:300;
+	font-display:swap;
+	src:url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf) format('truetype')
+}
+
+@font-face{
+	font-display:swap;
+	font-family:'Josefin Sans';
+	font-style:normal;
+	font-weight:400;
+	font-display:swap;
+	src:url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf) format('truetype')}
+
+@font-face{
+	font-display:swap;
+	font-family:'Josefin Sans';
+	font-style:normal;
+	font-weight:700;
+	font-display:swap;
+	src:url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf) format('truetype')
+}
+
+.content {
+	width: 100%;
+	margin: 0;
+}
+
+.logo-link {
+	margin: 50px 50px 0;
+  display: inline-block;
+}
+
+.v-dala-logo {
+	width: 150px;
+}
+
+.top-menu {
+	padding: 10px;
+}
+
+.content-box {
+	text-align: left;
+}
+
+.content-box--title {
+	margin: 20px;
+}
+
+.content-box--subtitle {
+	margin: 20px;
+  font-size: 18px;
+}
+
+.content-box--text {
+	margin: 20px;
+	font-size: 16px;
+}
+
+.desktop-link {
+	color: black;
+	text-decoration: underline;
+	font-size: 20px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.link {
+	padding: 10px;
+	display: block;
+	text-transform: uppercase;
+	user-select: none;
+}
+
+.divider {
+	width: 100px;
+	margin: 20px;
+	display: inline-block;
+}
+
+.page-title {
+	margin: 20px;
+	font-size: 30px;
+}
+
+.divider-box {
+	text-align: center;
+}
+
+.page-content {
+	background: white;
+	border-radius: 5px;
+	margin-top: 20px;
+	height: 100px;
+}
+
+/* Dropdown menu */
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+	height: 0;
+  position: inlne-block;
+  overflow: hidden;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  padding: 12px 16px;
+  height: initial;
+}
+
+.dropdown-link {
+	padding: 10px;
+	font-size: 15px;
+}
+
+/* End dropdown menu */
+
+.front-image-text-combo {
+	margin: 8px 0;
+	display: flex;
+}
+
+.front-image-text-combo--left,
+.front-image-text-combo--right {
+	width: 50%;
+	display: inline-block;
+}
+
+.front-image-text-combo--right {
+	padding: 20px;
+    text-align: left;
+    background: white;
+}
+
+.front-image-text-combo--right .title {
+	font-size: 18px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.front-image-text-combo--right .text {
+	font-weight: 300;
+}
+
+.page-banner {
+	padding: 20px;
+    background: white;
+    font-size: 25px;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+.page-trio {
+	display: flex;
+	margin: 8px 0;
+}
+
+.page-trio--box {
+	width: 50%;
+	background: white;
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.page-trio--box.next-to-image {
+	border-radius: 5px 0 0 5px;
+}
+
+.page-trio--box.middle {
+	margin: 0 8px;
+}
+
+.page-trio--box .title {
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom: 4px solid grey;
+	padding-bottom: 10px;
+}
+
+.text {
+	font-weight: 300;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.page-single {
+	border-radius: 5px;
+	background: white;
+	margin: 8px 0;
+	padding: 20px;
+}
+
+.page-single .title {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.event-title {
+	margin: 20px;
+}
+
+.event-subtitle {
+	margin: 20px;
+  font-size: 18px;
+}
+
+.event-text {
+	margin: 20px;
+	font-size: 16px;
+}

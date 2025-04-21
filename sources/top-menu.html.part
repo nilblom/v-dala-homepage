@@ -1,0 +1,28 @@
+<div class="top-menu">
+	<div class="top-menu--left">
+		<div class="link dropdown">
+			<span t="General">Allmänt</span>
+			<div class="dropdown-content">
+				<div class="dropdown-link"><a href="opening_hours.html" t="Opening hours">Öppettider</a></div>
+				<div class="dropdown-link"><a href="event.html" t="Calendar">Kalendarium</a></div>
+				<div class="dropdown-link" t="History">Historia</div>
+				<div class="dropdown-link" t="Friendship nations">Vännationer</div>
+				<div class="dropdown-link" t="Documents">Dokument</div>
+				<div class="dropdown-link" t="Landskap">Landskap</div>
+				<div class="dropdown-link" t="News">Nyheter</div>
+				<div class="dropdown-link" t="Apply for post">Sök post</div>
+				<div class="dropdown-link" t="Safety on V-Dala">Trygghet på V-Dala</div>
+			</div>
+		</div>
+		<div class="link" t="Membership">Medlemskap</div>
+		<div class="link" t="Benefits">Förmåner</div>
+		<div class="link" t="Living">Bostad</div>
+	</div>
+	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
+	<div class="top-menu--right">
+		<div class="link" t="Get involved!">Engagera dig!</div>
+		<div class="link" t="Fun">Nöje</div>
+		<div class="link" t="Rent V-Dala!">Hyr V-Dala</div>
+		<div class="link"><a href="contact.html" t="Contact">Kontakt</a></div>
+	</div>
+</div>

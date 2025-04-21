@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="front-image-text-combo">
+				<img class="front-image-text-combo--left" src="images/engagera_dig.jpg"/>
+				<div class="front-image-text-combo--right">
+					<div class="title" t="Apply for a post on V-Dala!">Sök en post på V-Dala!</div>
+					<div class="text" t="To apply for a post is an excellent way into the nation community. Under 'get involved' and 'apply for a post' in the links above you can find more information about which posts can be applied for right now, what they mean and what benefits they have.">
+						Att söka en post är ett utmärkt steg in i nationsgemenskapen! Under "engagera dig" och "sök en post på nationen" här ovan hittar du mer information om vilka poster som kan sökas just nu, vad de innebär och vilka förmåner de ger.
+					</div>
+				</div>
+			</div>
+
+			<div class="page-banner" t="Become a member of V-Dala nation">Bli medlem i V-Dala nation</div>
+
+			<div class="page-trio">
+				<div class="page-trio--box">
+					<div class="title" t="Calendar">Kalendarium</div>
+					<div class="event-list">
+						<ul>
+							<li t="16 may: Sister-nation-sitting at 18-02">16 maj: Vännationssittning kl 18-02</li>
+						</ul>
+					</div>
+					<div class="box-bottom-link">
+						<a href="event.html" t="See the whole calendar">Se hela kalendariet →</a>
+					</div>
+				</div>
+
+				<div class="page-trio--box middle">
+					<div class="title" t="Latest news">Senaste nytt</div>
+				</div>
+
+				<div class="page-trio--box">
+					<div class="title" t="Useful links">Användbara länkar</div>
+				</div>
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
