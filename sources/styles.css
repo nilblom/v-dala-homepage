@@ -35,6 +35,11 @@ div {
 	src:url(https://fonts.gstatic.com/s/josefinsans/v32/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf) format('truetype')
 }
 
+.page-single-row {
+	display: flex;
+  justify-content: center;
+}
+
 .content {
 	width: 1024px;
 	display: inline-block;
@@ -94,6 +99,10 @@ div {
 .contact-name {
 	font-weight: bold;
 	margin-bottom: 5px;
+}
+
+.contact-name {
+	font-size: 18px;
 }
 
 .contact-telephone {
@@ -191,8 +200,9 @@ div {
 }
 
 .page-single-box-1-4 {
-	width: 246px;  /* (1024-40)/4 */
+	width: 200px;  /* (1024-40)/4 */
 	text-align: left;
+	margin: 20px;
 }
 
 .calendar-month-box {
