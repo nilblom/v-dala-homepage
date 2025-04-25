@@ -19,11 +19,17 @@
 						Föreningen ordnar varje termin sammankomster med ett varierat program, bland annat after work och söndagsmiddagar med föredrag. För att få föreningens nyhetsbrev och kalendarium, maila
 					</span> <a href="mailto:vdv@v-dala.se">vdv@v-dala.se</a>. <span t="You can also follow them on Facebook.">Du kan också följa dem på</span> <a href="https://www.facebook.com/vdalavanner">Facebook</a>.</span>
 				</p>
-				<div class="subtitle">Alumniföreningar</div>
+				<div class="subtitle" t="Alumni associations">Alumniföreningar</div>
 				<ul>
-					<li>Föreningen Västmanlands-Dala nations vänner (Friends of V-Dala) is the Nation’s alumni association.</li>
-					<li>V-Dalakörens seniorförening (The V-Dala Choir’s senior members) for those who sang with the Nation’s choir.</li>
-					<li>Föreningen Krutgubbarna for former members of ab Kruthornen and Letta Gardet.</li>
+					<li t="Föreningen Västmanlands-Dala nations vänner (Friends of V-Dala) is the Nation’s alumni association.">
+						Föreningen Västmanlands-Dala nations vänner är nationens alumniorganisation.
+					</li>
+					<li t="V-Dalakörens seniorförening (The V-Dala Choir’s senior members) for those who sang with the Nation’s choir.">
+						V-Dalakörens seniorförening finns till för dem som sjöng med nationens kör.
+					</li>
+					<li t="Föreningen Krutgubbarna for former members of ab Kruthornen and Letta Gardet.">
+						Föreningen Krutgubbarna finns till för forna medlemmar av ab Kruthornen och Letta Gardet.
+					</li>
 				</ul>
 				<div class="subtitle">Medlem</div>
 				<p t="Member in V-Dala Vänner is made by signing an alumni membership in the Nation, also known as Older Countryman. The membership is 200 kr per term and everyone who is or has been a member of the nation but no longer is an active student can apply to become an Older Countryman, which also means an automatic membership in V-Dala Vänner. You can sign this membership by contacting the first curator. The membership gives a Nation card and access to all Nation activity.">
