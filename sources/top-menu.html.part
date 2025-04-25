@@ -18,7 +18,7 @@
 			<span t="Membership">Medlemskap</span>
 			<div class="dropdown-content">
 				<div class="dropdown-link"><a href="membership.html" t="Become member">Bli Medlem</a></div>
-				<div class="dropdown-link">Betala terminsavgift</div>
+				<div class="dropdown-link"><a href="pay_membership_fee.html">Betala terminsavgift</a></div>
 				<div class="dropdown-link">Äldre landsman</div>
 				<div class="dropdown-link">Hedersledamöter</div>
 				<div class="dropdown-link">Gå ur nationen</div>

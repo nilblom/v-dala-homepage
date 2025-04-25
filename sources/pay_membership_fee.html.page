@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="page-single" style="text-align: left;">
+				<div class="title" t="Pay term fee">Betala terminsavgift</div>
+				<p t="As a member of the nation, you are obliged to pay a tuition fee at the beginning of each semester. There are three ways to pay your membership fee:">
+					Som medlem av nationen är man skyldig att i början av varje termin avlägga en terminsavgift. Det finns tre olika sätt att betala sin terminsavgift:
+				</p>
+				<ul>
+					<li t="At the nation during the dispatching hours of the curator's office or the enrolment office">På nationen under kuratorsexpeditionens eller inskrivningarnas expeditionstider</li>
+					<li><span t="On">På</span> <a href="http://uppsalastudent.com">uppsalastudent.com</a></li>
+					<li t="If you are already a member of the nation, you will receive an invoice digitally (via Kivra, for example) or a paper invoice by post from the Curatorial Convention (Kuratorskonventet/KK) for all your memberships.">Om man sedan innan är medlem på nationen, kommer en faktura digitalt (via till exempel Kivra) eller en pappersfaktura per post från Kuratorskonventet för alla ens medlemskap.</li>
+				</ul>
+				<p t="If you haven't received your invoice via mail, make sure you have your address correct in Ladok or contact the curators.">
+					Om du inte har fått ditt inbetalningskort på posten, kontrollera att du har angivit rätt hemadress i Ladok eller kontakta kuratorerna.
+				</p>
+				<p t="As proof that your fee is paid in full, you get your Nation card on the app Mecenat. The Nation card is used together with a photo ID to take part in student life.">
+					Som bevis på att terminsavgiften är betald kommer ett nationskort i appen Mecenat. Nationskortet används tillsammans med legitimation för att ta del av studentlivet.
+				</p>
+				<p t="Whether you are a studying member or alumn you can receive the Nation card digitally through the app Mecenat.">
+					Vare sig du är studerande medlem eller alumnmedlem kan du få kortet digitalt genom studentkortets app STUK.
+				</p>
+				
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
