@@ -14,7 +14,7 @@
 				<div class="dropdown-link" t="Safety on V-Dala">Trygghet på V-Dala</div>
 			</div>
 		</div>
-		<div class="link" t="Membership">Medlemskap</div>
+		<div class="link"><a href="membership.html" t="Membership">Medlemskap</a></div>
 		<div class="link" t="Benefits">Förmåner</div>
 		<div class="link" t="Living">Bostad</div>
 	</div>
