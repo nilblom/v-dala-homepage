@@ -52,6 +52,7 @@
 			</div>
 
 			<div class="content-box">
+				<div class="content-box-title">Aktuella evenemang</div>
 				<include filename="sources\events\17_5_varbal.html.part"/>
 				<include filename="sources\events\16_5_vannation.html.part"/>
 			</div>
