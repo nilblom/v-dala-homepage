@@ -14,7 +14,16 @@
 				<div class="dropdown-link" t="Safety on V-Dala">Trygghet på V-Dala</div>
 			</div>
 		</div>
-		<div class="link"><a href="membership.html" t="Membership">Medlemskap</a></div>
+		<div class="link dropdown">
+			<span t="Membership">Medlemskap</span>
+			<div class="dropdown-content">
+				<div class="dropdown-link"><a href="membership.html" t="Become member">Bli Medlem</a></div>
+				<div class="dropdown-link">Betala terminsavgift</div>
+				<div class="dropdown-link">Äldre landsman</div>
+				<div class="dropdown-link">Hedersledamöter</div>
+				<div class="dropdown-link">Gå ur nationen</div>
+			</div>
+		</div>
 		<div class="link" t="Benefits">Förmåner</div>
 		<div class="link" t="Living">Bostad</div>
 	</div>
