@@ -1,30 +1,45 @@
-import os, shutil
+import os, shutil, hashlib
 from html.parser import HTMLParser
 
 
 # The current file output.
 file_output = None
 
+def get_hash(file):
+	with open(file, 'rb') as fo:
+		data = fo.read()
+		file_hash = hashlib.sha256(data).hexdigest()
+	return file_hash
+
+
+stylesheet_hash = get_hash(r"sources\styles.css")
+scripts_hash = get_hash(r"sources\scripts.js")
+
 
 class VDalaHTMLParser(HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        if tag == "include":
-        	filename = attrs[0][1].strip("\"")
-        	with open(filename, "r", encoding="utf-8") as include:
-        		part = include.read()
-        		file_output.write(part)
-        		file_output.flush()
-        else:
-        	file_output.write("<%s" % tag)
-        	for attr_name, attr_value in attrs:
-        		file_output.write(" %s=\"%s\"" % (attr_name, attr_value))
-        	file_output.write(">")
 
-    def handle_endtag(self, tag):
-        file_output.write("</%s>" % tag)
+	def handle_starttag(self, tag, attrs):
+		if tag == "include":
+			filename = attrs[0][1].strip("\"")
+			with open(filename, "r", encoding="utf-8") as include:
+				part = include.read()
+				if "statics.html.part" in filename:
+					part = part.replace("$stylesheet_hash", stylesheet_hash)
+					part = part.replace("$scripts_hash", stylesheet_hash)
+				file_output.write(part)
+				file_output.flush()
+		else:
+			file_output.write("<%s" % tag)
+			for attr_name, attr_value in attrs:
+				file_output.write(" %s=\"%s\"" % (attr_name, attr_value))
+			file_output.write(">")
+			file_output.flush()
 
-    def handle_data(self, data):
-        file_output.write(data)
+	def handle_endtag(self, tag):
+		file_output.write("</%s>" % tag)
+
+	def handle_data(self, data):
+		file_output.write(data)
 
 parser = VDalaHTMLParser()
 

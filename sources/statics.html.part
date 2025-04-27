@@ -1,2 +1,2 @@
-<link rel="stylesheet" href="styles.css?v=1">
-<script src="scripts.js?v=1"></script>
+<link rel="stylesheet" href="styles.css?v=$stylesheet_hash">
+<script src="scripts.js?v=$scripts_hash"></script>
