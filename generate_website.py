@@ -62,6 +62,10 @@ image_files = [
 	(r"sources\images", "v_dala.png")
 ]
 
+icon_files = [
+	(r"sources\images\google-materials", "search_30dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg")
+]
+
 contact_images = [
 	# Images on people for the contact page.
 	(r"sources\images\contact", "adrian_pfeffer.png"),
@@ -136,6 +140,11 @@ def main():
 	for path, filename in contact_images:
 		source = os.path.join(path, filename)
 		dest = os.path.join(output_folder, r"images\contact", filename)
+		shutil.copy(source, dest)
+
+	for path, filename in icon_files:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, r"images\google-materials", filename)
 		shutil.copy(source, dest)
 			
 
