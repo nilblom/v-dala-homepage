@@ -1,2 +1,5 @@
 <link rel="stylesheet" href="styles.css?v=$stylesheet_hash">
 <script src="scripts.js?v=$scripts_hash"></script>
+<script src="lunr_documents.js?v=$lunr_documents_hash"></script>
+<script src="lunr.js?v=$lunr_hash"></script>
+<script src="lunr_documents_id_map.js?v=$lunr_documents_id_map_hash"></script>
