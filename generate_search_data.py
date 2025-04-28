@@ -1,9 +1,9 @@
 import os
 from html.parser import HTMLParser
 
-# The elements are of the structure ["", []].
-# The first is the title, the second is the text.
-documents = {}
+# The elements are of the structure {"title": "", "text": [], "filename": ""}.
+documents = []
+current_document = {"text": ""}
 
 current_file = None
 set_title = False
@@ -29,14 +29,14 @@ class SearchIndexParser(HTMLParser):
         if data.strip() == "":
             return
 
-        global documents, in_content, set_title
+        global current_document, in_content, set_title
 
         strip = data.strip()
         if set_title:
-            documents[current_file]["title"] = strip
+            current_document["title"] = strip
         
         if in_content:
-            documents[current_file]["text"].append(strip)
+            current_document["text"] += strip + " "
 
 parser = SearchIndexParser()
 
@@ -57,22 +57,26 @@ documents_list = [
 ]
 
 def main():
-    global current_file, documents, in_content
+    global current_file, documents, in_content, current_document
 
     files = os.listdir(files_folder)
     for fi in documents_list:
         current_file = fi
-        documents[current_file] = {"title": "", "text": []}
+        current_document["filename"] = fi[8:-5]
         with open(fi, encoding="utf-8") as fo:
             parser.feed(fo.read())
+            documents.append(current_document)
+            current_document = {"text": ""}
         in_content = False
 
-    json = []
-    for filename, data in documents.items():
-        json.append({filename[8:-5]: data})
+    with open(r"sources\lunr_documents.js", "w", encoding="utf-8") as fo:
+        print("var lunr_documents =", documents, ";", file=fo)
 
-    with open("search_index.json", "w", encoding="utf-8") as fo:
-        print(json, file=fo)
+    documents_map = {}
+    for doc in documents:
+        documents_map[doc["filename"]] = doc["title"]
+    with open(r"sources\lunr_documents_id_map.js", "w", encoding="utf-8") as fo:
+        print("var lunr_documents_id_map =", documents_map, ";", file=fo)
 
 if __name__ == '__main__':
     main()
