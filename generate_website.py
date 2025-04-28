@@ -25,7 +25,7 @@ class VDalaHTMLParser(HTMLParser):
 				part = include.read()
 				if "statics.html.part" in filename:
 					part = part.replace("$stylesheet_hash", stylesheet_hash)
-					part = part.replace("$scripts_hash", stylesheet_hash)
+					part = part.replace("$scripts_hash", scripts_hash)
 				file_output.write(part)
 				file_output.flush()
 		else:
