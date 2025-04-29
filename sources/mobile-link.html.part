@@ -4,7 +4,11 @@
         <span style="position: relative; left: 30px;" t="Search the website">Sök på hemsidan</span>
         <div class="search-button-dropdown-content">
         	<div style="margin-bottom: 10px;">Enter your search query:</div>
-        	<input id="search-input" style="width: 300px;"/>
+        	<div style="display: flex;">
+                <input id="search-input" style="width: 300px;"/>
+                <button class="search-go-button" id="search-go-button" t="Search">Sök</button>
+            </div>
+            <div id="search-results" t="The search results are shown here." class="search-results-placeholder">Sökresultaten visas här.</div>
         </div>
     </div>
 	<a href="mobile/index.html" class="mobile-link" t="Show mobile version">Visa mobilversion</a>

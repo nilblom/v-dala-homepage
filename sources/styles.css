@@ -470,3 +470,14 @@ div {
 }
 
 /* End search button dropdown */
+
+.search-results-placeholder {
+	margin: 20px;
+	text-align: center;
+}
+
+.search-result {
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+}
