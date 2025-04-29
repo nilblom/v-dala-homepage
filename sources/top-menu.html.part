@@ -6,7 +6,7 @@
 				<div class="dropdown-link"><a href="opening_hours.html" t="Opening hours">Öppettider</a></div>
 				<div class="dropdown-link"><a href="event.html" t="Calendar">Kalendarium</a></div>
 				<div class="dropdown-link"><a href="history.html" t="History">Historia</a></div>
-				<div class="dropdown-link" t="Friendship nations">Vännationer</div>
+				<div class="dropdown-link"><a href="sister_nations.html" t="Friendship nations">Vännationer</a></div>
 				<div class="dropdown-link" t="Documents">Dokument</div>
 				<div class="dropdown-link" t="Landskap">Landskap</div>
 				<div class="dropdown-link" t="News">Nyheter</div>

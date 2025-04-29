@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title t="Sister nations | V-Dala nation">Vännationer | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="calendar page-single" style="text-align: left;">
+				<div class="title" t="Sister nations">Vännationer</div>
+				<p t="Through the ages, V-Dala has made friends among the nations in countries around the Baltic sea. The purpose of these sister nations was originally to provide “embassies” for student exchange between the universities, but at present the relationships are of a purely social nature.">
+					V-Dala har genom åren samlat på sig ett flertal vännationer i länderna kring Östersjön. Syftet med vännationerna var ursprungligen att ordna naturliga ambassader vid studentutbyten mellan universiteten, men idag har vi enbart sociala förpliktelser gentemot varandra.
+				</p>
+				<div class="subtitle" t="In Sweden">I Sverige</div>
+				<ul>
+					<li t="Gästrike Hälsinge Dala nation at Umeå University">Gästrike Hälsinge Dala nation vid Umeå universitet</li>
+					<li><a href="http://www.norrlandsnation.se/">Norrlands nation</a> <span t="at Uppsala University">vid Uppsala universitet</span></li>
+				</ul>
+				<div class="subtitle" t="Abroad">Utomlands</div>
+				<ul>
+					<li t="Karjalainen Osakunta at the University of Helsinki">Karjalainen Osakunta vid Helsingfors universitet</li>
+					<li t="Wiipurilainen Osakunta at the University of Helsinki">Wiipurilainen Osakunta vid Helsingfors universitet</li>
+					<li><a href="https://www.ofn.fi/">Östra Finlands nation</a> <span t="at the University of Helsinki">vid Helsingfors universitet</span></li>
+					<li><a href="http://www.helsingkrona.se/">Helsingborgs-Landskrona nation</a> <span t="at the University of Lund">vid Lunds universitet</span></li>
+					<li><a href="http://www.vironia.ee/">Korporatsioon Vironia</a> <span t="at Tallinn University">vid Universitetet i Tallinn</span></li>
+					<li t="Eesti Naisüliõpilaste selts at the University of Tartu">Eesti Naisüliõpilaste selts vid Tartu universitet</li>
+					<li><a href="https://xn--bjrnskogen-fcb.fi/">Östra Finlands nation</a> <span t="at Åbo Akademi University">vid Åbo Akademi</span></li>
+				</ul>
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
