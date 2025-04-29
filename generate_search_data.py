@@ -33,7 +33,8 @@ class SearchIndexParser(HTMLParser):
 
         strip = data.strip()
         if set_title:
-            current_document["title"] = strip
+            # Strip the " | V-Dala nation" part from the HTML <title>.
+            current_document["title"] = strip[:-16]
         
         if in_content:
             current_document["text"] += strip + " "
