@@ -7,7 +7,7 @@
                 <input class="search-input" id="search-input" style="width: 300px;"/>
                 <button class="search-go-button" id="search-go-button" t="Search">Sök</button>
             </div>
-            <div id="search-results" t="Relevant pages are shown here." class="search-results-placeholder">Relevanta sidor visas här.</div>
+            <div id="search-results" t="Relevant pages are shown here." class="search-results search-results-placeholder">Relevanta sidor visas här.</div>
         </div>
     </div>
 	<a href="mobile/index.html" class="mobile-link" t="Show mobile version">Visa mobilversion</a>

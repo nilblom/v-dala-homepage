@@ -1,3 +1,4 @@
+/* Keep lunr variables as global for easier debugging. */
 var lunr_results, lunr_idx;
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -44,6 +45,8 @@ function enable_contact_helper() {
 }
 
 function enable_search() {
+	var search_results = document.getElementById("search-results");
+
 	lunr_idx = lunr(function () {
   		this.ref('filename')
   		this.field('text')
@@ -55,7 +58,30 @@ function enable_search() {
 })
 
 	var input = document.getElementById("search-input");
-	input.oninput = function() {
-		lunr_results = idx.search(input.value);
+	var go = document.getElementById("search-go-button");
+	var search_results_list;
+	go.onclick = function() {
+		lunr_results = lunr_idx.search(input.value);
+		search_results.innerHTML = "";
+
+		if (lunr_results.length == 0)
+			search_results.innerText = "Inga sidor matchade.";
+		else {
+			search_results_list = document.createElement("ul");
+			search_results.appendChild(search_results_list);
+		}
+
+		for (var i = 0; i < lunr_results.length; i++) {
+			var result = document.createElement("li");
+			result.setAttribute("class", "search-result");
+			var result_link = document.createElement("a");
+
+			result_link.setAttribute("class", "search-result-link");
+			result_link.innerText = lunr_documents_id_map[lunr_results[i].ref];
+			result_link.setAttribute("href", lunr_results[i].ref);
+			result.appendChild(result_link);
+
+			search_results_list.appendChild(result);
+		}
 	}
 }
