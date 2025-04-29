@@ -481,3 +481,28 @@ div {
 	font-weight: normal;
 	text-align: left;
 }
+
+.search-go-button {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 0;
+	background: #034992;
+	color: white;
+	font-weight: bold;
+}
+
+.search-input {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid lightgrey;
+}
+
+.search-results ul {
+
+}
+
+.search-result {
+	margin: 5px 0;
+}
