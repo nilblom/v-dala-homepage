@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<title t="History | V-Dala nation">Historia | V-Dala nation</title>
 		<include filename="sources/statics.html.part"/>
 		<meta charset="UTF-8">
 	</head>
