@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title t="Honorary members | V-Dala nation">Hedersledamöter | V-Dala nation</title>
-		<link rel="stylesheet" href="styles.css?v=1">
+		<include filename="sources/statics.html.part"/>
 		<meta charset="UTF-8">
 	</head>
 	<body>
