@@ -54,7 +54,8 @@ documents_list = [
     r"sources\history.html.page",
     r"sources\opening_hours.html.page",
     r"sources\honorary_members.html.page",
-    r"sources\pay_membership_fee.html.page"
+    r"sources\pay_membership_fee.html.page",
+    r"sources\sister_nations.html.page"
 ]
 
 def main():
