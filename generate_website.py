@@ -61,7 +61,8 @@ pages = [
 	("sources", "leaving_nation.html.page"),
 	("sources", "history.html.page"),
 	("sources", "sister_nations.html.page"),
-	("sources", "documents.html.page")
+	("sources", "documents.html.page"),
+	("sources", "landskap.html.page")
 ]
 
 image_files = [
