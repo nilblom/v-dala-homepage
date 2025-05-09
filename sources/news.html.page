@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title t="News | V-Dala nation">Nyheter | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="page-single">
+				<div class="subtitle" style="margin: 30px;" t="The news archive is empty at the moment but will be updated with older news.">Nyhetsarkivet är tomt för nuvarande men kommer att uppdateras med äldre nyheter.</div>
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
