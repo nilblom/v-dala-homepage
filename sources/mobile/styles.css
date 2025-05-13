@@ -82,6 +82,10 @@ div {
 	display: inline-block;
 }
 
+.translate:hover {
+	cursor: pointer;
+}
+
 .link {
 	padding: 10px;
 	display: block;
