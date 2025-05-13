@@ -66,6 +66,7 @@ div {
 
 .content-box {
 	text-align: left;
+	margin: 20px;
 }
 
 .content-box--title {
@@ -237,4 +238,12 @@ div {
 .event-text {
 	margin: 20px;
 	font-size: 16px;
+}
+
+p {
+	font-size: 20px;
+}
+
+ul, ol {
+	font-size: 20px;
 }
