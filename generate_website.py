@@ -109,7 +109,8 @@ mixed_files = [
 ]
 
 mixed_files_mobile = [
-	(r"sources\mobile", "styles.css")
+	(r"sources\mobile", "styles.css"),
+	(r"sources\mobile", "scripts.js")
 ]
 
 mobile_pages = [

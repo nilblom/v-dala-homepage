@@ -73,7 +73,8 @@ div {
 	font-size: 20px;
 }
 
-.desktop-link {
+.desktop-link,
+.translate {
 	color: black;
 	text-decoration: underline;
 	font-size: 20px;
