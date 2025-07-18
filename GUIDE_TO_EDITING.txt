@@ -3,7 +3,15 @@ Guide to Editing the V-Dala Website
 
 Contents
 --------
+0. Conventions in this file
 1. Adding new events
+2. Adding content to a HTML file
+
+
+0. Conventions in this file
+---------------------------
+Each row is about 60 characters wide. A line that has been
+broken in two is indicated by a \ (backslash). 
 
 
 1. Adding new events
@@ -64,3 +72,20 @@ If you have editor status you can make changes on the main
 branch directly -- your changes will be published as soon
 as the script runs as a result of your change being
 committed.
+
+
+2. Adding content to a HTML file
+--------------------------------
+When you add HTML content to a page, no text should be left
+inside a tag and next to a tag. An example:
+
+	<p t="Här är text.">Here is text. <a t="Länk">Link</a></p>
+
+If you write the content as above, the translation function
+will erase the <a> element. You should write it like this:
+
+	<p><span t="Här är text.">Here is text.</span> \
+	<a t="Länk">Link</a></p>
+
+The translation function will operate as expected using the
+second example.
