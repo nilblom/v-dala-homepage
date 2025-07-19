@@ -68,7 +68,8 @@ pages = [
 	("sources", "accommodation.html.page"),
 	("sources", "engage.html.page"),	
 	("sources", "cafe.html.page"),
-	("sources", "sportscommittee.html.page")
+	("sources", "sportscommittee.html.page"),
+	("sources", "abkruthornenlettagardet.html.page")
 ]
 
 image_files = [
