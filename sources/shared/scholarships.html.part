@@ -1,0 +1,7 @@
+<div id="content" class="title" t="Stipends">Stipendier</div>
+
+<p t="Write the content in p-tags.">Skriv innehållet i p-taggar.</p>
+
+<div t="Subheading" class="subtitle">Underrubrik</div>
+
+<p><span t="Write more content in another p tag. A link is written like">Skriv mer innehåll i fler p-taggar. En länks skrivs </span> <a href="#" t="like so">så här</a>.</p>
