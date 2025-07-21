@@ -16,19 +16,19 @@
 		
 		<div class="divider-box"><hr class="divider"/></div>
 		
-		<div class="top-menu">
-
 		<include filename="sources\mobile\top_menu.html.part"/>
 
 		<div class="divider-box"><hr class="divider"/></div>
 
-		<div>
-			<div class="content-box">
-				<div class="content-box-title">Sök en post på V-Dala!</div>
-				<div class="content-box-text">
-					Att söka en post är ett utmärkt steg in i nationsgemenskapen! Under "engagera dig" och "sök en post på nationen" här ovan hittar du mer information om vilka poster som kan sökas just nu, vad de innebär och vilka förmåner de ger.
-				</div>
-			</div>
+		<div class="content-box">
+			<div class="content-box-title">Evenemang</div>
+
+			<div t="May" style="font-size: 32px; text-decoration: underline;">Maj</div>
+
+			<include filename="sources\events\17_5_varbal.html.part"/>
+			<include filename="sources\events\16_5_vannation.html.part"/>
+			<include filename="sources\events\31_5_taket.html.part"/>
+			
 		</div>
 
 	</body>
