@@ -4,7 +4,7 @@
 		<div class="dropdown-content">
 			<div class="dropdown-link">Öppettider</div>
 			<div class="dropdown-link"><a href="event.html">Kalendarium</a></div>
-			<div class="dropdown-link">Historia</div>
+			<div class="dropdown-link"><a href="history.html#content">Historia</a></div>
 			<div class="dropdown-link">Vännationer</div>
 			<div class="dropdown-link">Dokument</div>
 			<div class="dropdown-link">Landskap</div>
