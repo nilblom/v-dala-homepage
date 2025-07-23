@@ -13,7 +13,12 @@
 			<div class="dropdown-link">Trygghet på V-Dala</div>
 		</div>
 	</div>
-	<div class="link">Medlemskap</div>
+	<div class="link dropdown">
+		<span>Medlemskap</span>
+		<div class="dropdown-content">
+			<div class="dropdown-link"><a href="alumnus.html#content">Äldre landsman</a></div>
+		</div>
+	</div>
 	<div class="link dropdown">
 		<span>Förmåner</span>
 		<div class="dropdown-content">
