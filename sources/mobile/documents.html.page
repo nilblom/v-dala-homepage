@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/mobile/statics.html.part"/>
+	</head>
+	<body>
+		<div class="content">
+
+		<div><a href="../index.html" class="desktop-link">Visa skrivbordsversion</a></div>
+
+		<div><span id="switch-language" class="translate" t="Show in Swedish">Visa på engelska</span></div>
+
+		<a class="logo-link" href="index.html"><img src="../images/v_dala.png" class="v-dala-logo"></a>
+
+		<div class="page-title">V-Dala nation</div>
+		
+		<div class="divider-box"><hr class="divider"/></div>
+		
+		<include filename="sources\mobile\top_menu.html.part"/>
+
+		<div class="divider-box"><hr class="divider"/></div>
+
+		<div>
+			<div class="content-box">
+				<include filename="sources\shared\documents.html.part"/>
+			</div>
+		</div>
+	</body>
+</html>
