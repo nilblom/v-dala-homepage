@@ -3,12 +3,42 @@ Todo
 
 (In no specific order.)
 
+(Beginner)
+
 - Add content to Sports Committée page
 - Add content to ab Kruthornen & Letta Gardet page
 - Add content to Scholarships page
 - Add content to Library page
 - Add content to Counselling page
 - Add content to Rent V-Dala nation page
+
+(Intermediate)
+
+- Make pages for mobile (and add links to):
+	(Under General tab)
+	- X History
+	- X Sister nations
+	- X Documents
+	- Landskap
+	- News
+	- Apply for post
+	- Safety on V-Dala
+	(Membership tab)
+	- Become member
+	- Pay term fee
+	- X Alumnus – V-Dala vänner
+	- Honorary members
+	- Leaving the Nation
+	(Under Benefits tab)
+	- Library
+	- Counselling
+	- Sports
+	(Under Fun tab)
+	- Carl Larsson café & lunch
+	- Ab Kruthornen & Letta Gardet
+	- Sports committee
+
+- Add translations for mobile link menu
 
 
 Done
