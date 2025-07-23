@@ -129,7 +129,8 @@ mobile_pages = [
 	(r"sources\mobile", "sister_nations.html.page"),
 	(r"sources\mobile", "alumnus.html.page"),
 	(r"sources\mobile", "documents.html.page"),
-	(r"sources\mobile", "landskap.html.page")
+	(r"sources\mobile", "landskap.html.page"),
+	(r"sources\mobile", "news.html.page")
 ]
 
 output_folder = "upload"

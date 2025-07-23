@@ -10,7 +10,7 @@
 			<include filename="sources/top-menu.html.part"/>
 
 			<div class="page-single">
-				<div class="subtitle" style="margin: 30px;" t="The news archive is empty at the moment but will be updated with older news.">Nyhetsarkivet är tomt för nuvarande men kommer att uppdateras med äldre nyheter.</div>
+				<include filename="sources/shared/news.html.part"/>
 			</div>
 
 			<include filename="sources/kontakta.html.part"/>
