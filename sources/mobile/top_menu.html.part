@@ -16,7 +16,11 @@
 	<div class="link dropdown">
 		<span>Medlemskap</span>
 		<div class="dropdown-content">
-			<div class="dropdown-link"><a href="alumnus.html#content">Äldre landsman</a></div>
+			<div class="dropdown-link"><a href="#">Bli Medlem</a></div>
+			<div class="dropdown-link"><a href="#">Betala terminsavgift</a></div>
+			<div class="dropdown-link"><a href="#">Äldre landsman</a></div>
+			<div class="dropdown-link"><a href="#">Hedersledamöter</a></div>
+			<div class="dropdown-link"><a href="#">Gå ur nationen</a></div>
 		</div>
 	</div>
 	<div class="link dropdown">
