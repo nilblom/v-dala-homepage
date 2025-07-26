@@ -37,7 +37,7 @@
 	<div class="link dropdown">
 		<span>Nöje</span>
 		<div class="dropdown-content">
-			<div class="dropdown-link"><a href="#content">Carl Larssons café & lunch</a></div>
+			<div class="dropdown-link"><a href="cafe.html#content">Carl Larssons café & lunch</a></div>
 			<div class="dropdown-link"><a href="#content">Idrottsutskottet</a></div>
 			<div class="dropdown-link"><a href="#content">ab Kruthornen & Letta Gardet</a></div>
 		</div>
