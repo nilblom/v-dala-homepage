@@ -1,3 +1,4 @@
+import os, shutil
 from html.parser import HTMLParser
 
 
@@ -28,22 +29,66 @@ class VDalaHTMLParser(HTMLParser):
 parser = VDalaHTMLParser()
 
 pages = [
-	r"public_html\index.html.page",
-	r"public_html\event.html.page",
-	r"public_html\opening_hours.html.page",
-	r"public_html\contact.html.page"
+	("sources", "index.html.page"),
+	("sources", "event.html.page"),
+	("sources", "opening_hours.html.page"),
+	("sources", "contact.html.page")
 ]
 
+image_files = [
+	(r"sources\images", "huset.jpg"),
+	(r"sources\images", "engagera_dig.jpg"),
+	(r"sources\images", "v_dala.png")
+]
 
-def main():
+mixed_files = [
+	("sources", "styles.css"),
+	("sources", "scripts.js")
+]
+
+mixed_files_mobile = [
+	(r"sources\mobile", "styles.css")
+]
+
+mobile_pages = [
+	(r"sources\mobile", "index.html.page")
+]
+
+output_folder = "upload"
+
+def render_page_to_file(pages, output_folder):
 	global file_output
 
-	for filename in pages:
-		output_filename = filename[0:-5]
-		file_output = open(output_filename, "w", encoding="utf-8")
-		with open(filename, "r", encoding="utf-8") as part:
+	for path, filename in pages:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, filename.rstrip(".page"))
+		file_output = open(dest, "w", encoding="utf-8")
+		with open(source, "r", encoding="utf-8") as part:
 			parser.feed(part.read())
 		file_output.close()
+
+def main():
+	global output_folder
+
+	render_page_to_file(pages, output_folder)
+	
+	mobile_pages_dest = os.path.join(output_folder, "mobile")
+	render_page_to_file(mobile_pages, mobile_pages_dest)
+
+	for path, filename in image_files:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, "images", filename)
+		shutil.copy(source, dest)
+
+	for path, filename in mixed_files:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, filename)
+		shutil.copy(source, dest)
+
+	for path, filename in mixed_files_mobile:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, "mobile", filename)
+		shutil.copy(source, dest)
 			
 
 if __name__ == '__main__':
