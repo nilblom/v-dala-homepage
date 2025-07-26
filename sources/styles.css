@@ -252,6 +252,7 @@ div {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 12px 16px;
   z-index: 1;
+  border-left: 5px solid #034992;
 }
 
 .dropdown:hover .dropdown-content {
@@ -259,11 +260,45 @@ div {
 }
 
 .dropdown-link {
+	width: 100%;
 	text-align: left;
 	padding: 10px;
 }
 
 /* End dropdown menu */
+
+/* Second dropdown menu */
+
+.second-dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 0;
+}
+
+.second-dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 2;
+  left: 100px;
+  top: 10px;
+  border-left: 5px solid #034992;
+}
+
+.second-dropdown:hover .second-dropdown-content {
+  display: block;
+}
+
+.second-dropdown-link {
+	text-align: left;
+	padding: 10px;
+}
+
+/* End second dropdown menu */
+
 
 .event-list {
 
