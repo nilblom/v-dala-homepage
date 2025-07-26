@@ -34,7 +34,7 @@
 				<div class="dropdown-link"><a href="sports.html" t="Sports committee">Idrott</a></div> 
 			</div>
 		</div>
-		<div class="link" t="Living">Bostad</div>
+		<div class="link"><a href="accommodation.html" t="Living">Bostad</a></div>
 	</div>
 	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
 	<div class="top-menu--right">
