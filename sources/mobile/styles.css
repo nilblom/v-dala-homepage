@@ -98,6 +98,11 @@ div {
 	user-select: none;
 }
 
+.link a {
+	text-decoration: none;
+	color: black;
+}
+
 .divider {
 	width: 100px;
 	margin: 20px;
