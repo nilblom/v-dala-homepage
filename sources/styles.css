@@ -133,6 +133,7 @@ div {
   color: white;
   text-decoration: underline;
   display: inline-block;
+  cursor: pointer;
 }
 
 .page-content {
