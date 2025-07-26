@@ -1,7 +1,7 @@
 <div style="position: relative;">
 	<div class="search-button">
         <div class="search-link-magnifying-glass"></div>
-        <span style="position: relative; left: 30px;">Search the website</span>
+        <span style="position: relative; left: 30px;" t="Search the website">Sök på hemsidan</span>
     </div>
 	<a href="mobile/index.html" class="mobile-link" t="Show mobile version">Visa mobilversion</a>
 	<a class="mobile-link" id="switch-language" t="Show in Swedish">Visa på engelska</a>
