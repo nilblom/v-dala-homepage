@@ -14,6 +14,9 @@ def get_hash(file):
 
 stylesheet_hash = get_hash(r"sources\styles.css")
 scripts_hash = get_hash(r"sources\scripts.js")
+lunr_hash = get_hash(r"sources\lunr.js")
+lunr_documents_hash = get_hash(r"sources\lunr_documents.js")
+lunr_documents_id_map_hash = get_hash(r"sources\lunr_documents_id_map.js")
 
 
 class VDalaHTMLParser(HTMLParser):
@@ -26,6 +29,9 @@ class VDalaHTMLParser(HTMLParser):
 				if "statics.html.part" in filename:
 					part = part.replace("$stylesheet_hash", stylesheet_hash)
 					part = part.replace("$scripts_hash", scripts_hash)
+					part = part.replace("$lunr_hash", lunr_hash)
+					part = part.replace("$lunr_documents_hash", lunr_documents_hash)
+					part = part.replace("$lunr_documents_id_map_hash", lunr_documents_id_map_hash)
 				file_output.write(part)
 				file_output.flush()
 		else:
@@ -90,7 +96,10 @@ contact_images = [
 
 mixed_files = [
 	("sources", "styles.css"),
-	("sources", "scripts.js")
+	("sources", "scripts.js"),
+	("sources", "lunr_documents.js"),
+	("sources", "lunr.js"),
+	("sources", "lunr_documents_id_map.js")
 ]
 
 mixed_files_mobile = [
