@@ -1,0 +1,4 @@
+<div>
+	<a href="mobile/index.html" class="mobile-link" t="Show mobile version">Visa mobilversion</a>
+	<a class="mobile-link" id="switch-language" t="Show in Swedish">Visa på engelska</a>
+</div>
