@@ -103,6 +103,30 @@ div {
 	color: black;
 }
 
+.contact {
+	font-size: 20px;
+	margin: 30px;
+	text-align: center;
+}
+
+.contact-image-placeholder {
+	width: 150px;
+	height: 150px;
+	background: grey;
+}
+
+.contact-title {
+	margin: 10px;
+}
+
+.contact-name {
+	margin: 10px;
+}
+
+.contact-email {
+	margin: 10px;
+}
+
 .divider {
 	width: 100px;
 	margin: 20px;
