@@ -428,3 +428,21 @@ div {
   font-weight: bold;
   margin-bottom: 20px;
 }
+
+.search-button {
+	display: flex;
+  position: absolute;
+  left: 0;
+  color: white;
+  font-weight: bold;
+}
+
+.search-link-magnifying-glass {
+	background-image: url("images/google-materials/search_30dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-blend-mode: color;
+  position: absolute;
+  top: -5px;
+}
