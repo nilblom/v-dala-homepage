@@ -32,67 +32,6 @@
 				</div>
 			</div>
 
-			<div class="page-single">
-				<div class="page-box-title" t="Opening hours">Öppettider</div>
-				<div style="display: flex;">
-					<div class="page-single--box page-single--leftmost-box">
-						<div class="opening-hours-title" t="Opening hours at the curators office">Öppettider på Kuratorsexpeditionen</div>
-						<div class="opening-hours-description" t="The first curator deal in membership, sales of tickets and guest cards, scholarships and general questions about the nation.">
-							Förste kurators behandlar ärenden gällande medlemskap, försäljning av biljetter och gästkort, stipendier och allmänna frågor om nationen.
-						</div>
-						<civ class="opening-hours-times">
-							<div class="row"><span class="day" t="Monday">Måndag:</span><span class="time">11–13</span></div>
-							<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">16–18</span></div>
-							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">14–16</span></div>
-							<div class="row"><span class="day" t="Thursday">Torsdag:</span><span class="time">16–18</span></div>
-							<div class="row"><span class="day" t="Friday">Fredag:</span><span class="time">11–13</span></div>
-						</civ>
-					</div>
-					<div class="page-single--box">
-						<div class="opening-hours-title" t="Västmanlands-Dala Nation Student Housing Foundation">Stiftelsen Västmanlands-Dala nations studentbostäder</div>
-						<div class="opening-hours-description">
-							<span t="See opening hours">Se bostadsstiftelsens öppettider på</span> <a href="https://www.nationsgardarna.se/vastmanlands-dala">Nationsgårdarna.se</a>
-						</div>
-					</div>
-					<div class="page-single--box page-single--rightmost-box">
-						<div class="opening-hours-title" t="Library and reading rooms">Bibliotek och läsesalar</div>
-						<div class="opening-hours-description" t="During the semester the reading rooms are open every day between 10-18.">Under terminerna är läsesalarna öppna varje vardag mellan 10 – 18.</div>
-						<div class="opening-hours-description" t="Library opening hours:">
-							Bibliotekets öppettider:
-						</div>
-						<div class="opening-hours-times">
-							<div class="row"><span class="day" t="Monday - Thursday">Måndag - Torsdag:</span><span class="time">15:00–18:00</span></div>
-							<div class="row"><span class="day" t="Friday:">Fredag:</span><span class="time">10:00–13:00</span></div>
-						</div>
-						<div class="opening-hours-description" t="Librarian's office hours">Bibliotekariens mottagningstid:</div>
-						<div class="opening-hours-times">
-							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">15:00–18:00</span></div>
-						</div>
-					</div>
-				</div>
-				<div style="display: flex;">
-					<div class="page-single--box page-single--leftmost-box">
-						<div class="opening-hours-title">Café Avec</div>
-						<div class="opening-hours-times">
-							<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">18:00-22:00</span></div>
-						</div>
-					</div>
-					<div class="page-single--box">
-						<div class="opening-hours-title" t="Carl Larson lunch">Carl Larsson-lunchen</div>
-						<div class="opening-hours-times">
-							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">11:30–15:00</span></div>
-						</div>
-					</div>
-					<div class="page-single--box page-single--rightmost-box">
-						<div class="opening-hours-title" t="The club's opening hours">Klubbverkets öppettider</div>
-						<div class="opening-hours-times">
-						<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">14:00–16:00</span></div>
-						<div class="row"><span class="day" t="Thursday">Torsdag:</span><span class="time">14:00–16:00</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-
 			<include filename="sources/kontakta.html.part"/>
 		</div>
 	</body>
