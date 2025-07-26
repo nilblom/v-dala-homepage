@@ -39,7 +39,13 @@
 	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
 	<div class="top-menu--right">
 		<div class="link"><a href="engage.html" t="Get involved!">Engagera dig!</a></div>
-		<div class="link" t="Fun">Nöje</div>
+		<div class="link dropdown">
+			<span t="Fun">Nöje</span>
+			<div class="dropdown-content">
+				<div class="dropdown-link"><a href="cafe.html">Carl Larssons café & lunch</a></div>
+				<div class="dropdown-link"><a href="sportsanddance.html" t="Sports & dance">Idrott & Dans</a></div>
+			</div>
+		</div>
 		<div class="link" t="Rent V-Dala!">Hyr V-Dala</div>
 		<div class="link"><a href="contact.html" t="Contact">Kontakt</a></div>
 	</div>
