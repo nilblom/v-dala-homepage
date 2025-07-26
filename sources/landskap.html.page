@@ -10,24 +10,7 @@
 			<include filename="sources/top-menu.html.part"/>
 
 			<div class="page-single" style="text-align: left;">
-				<div class="title">Landskap</div>
-				<div class="subtitle">Landskap, vad är det?</div>
-
-				<p t="Landskap is nation’s highest decision-making body and all members of the V-Dala nation are welcome to participate and vote. Don’t miss this opportunity to influence the nation’s activities!">Landskapet är nationens högsta beslutande organ och alla som är medlemmar i V-Dala nation är välkomna att delta och rösta. Missa inte denna möjlighet att påverka nationens verksamhet!</p>
-
-				<p t="If you are interested in running for a position, the deadline for applications is 7 days before the Landskap. You can apply either via the curators offie or the website application form. In the link you can also see a list of eligible positions. Remember to check that you have paid your membership and that your books and loans are not overdue – as this voids your right to vote or be elected for a position.">Om du är intresserad av att söka en befattning är sista ansökningsdag 7 dagar innan landskapet. Söka kan man antingen göra på kuratorsexpeditionen eller via hemsidan. I länken kan man också se en lista på valbara poster. Kom ihåg att kolla att du har betalat ditt medlemskap och att dina boklån och eventuella lån inte är försenade eftersom det hindrar din rätt att rösta eller bli vald för en befattning.</p>
-
-				<p t="After the provincial election, the traditional informal dinner, called a “Landskapssexa” follows. This is an informal sitting with lots of singing and banter, something that cannot be described but must be experienced!">Efter landskapet följer den traditionella landskapssexan. Det är en informell sittning med mycket sång och spex, något som inte kan beskrivas utan måste upplevas.</p>
-
-				<p t="Warm welcome!">Varmt välkomna!</p>
-
-				<div class="subtitle" t="Apply for a position online">Lämna in ansökan för befattningar via internet</div>
-				<p t="If you want to apply for a position you can do so on the following page:">Om du vill söka till en befattning kan du göra det på följande sida:</p>
-				<ul>
-					<li><a href="./ansok" t="Apply for a position">Lämna in ansökan</a></li>
-				</ul>
-				<p t="In the link you can also see a list of eligible positions. There are also descriptions of what each position means.">På sidan finns också en lista över poster du kan söka. Där finns även beskrivningar av vad respektive befattning innebär.</p>
-				<p></p>
+				<include filename="sources/shared/landskap.html.part"/>
 			</div>
 
 			<include filename="sources/kontakta.html.part"/>
