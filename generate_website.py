@@ -136,7 +136,8 @@ mobile_pages = [
 	(r"sources\mobile", "pay_membership_fee.html.page"),
 	(r"sources\mobile", "honorary_members.html.page"),
 	(r"sources\mobile", "the_library.html.page"),
-	(r"sources\mobile", "leaving_nation.html.page")
+	(r"sources\mobile", "leaving_nation.html.page"),
+	(r"sources\mobile", "counselling.html.page")
 ]
 
 output_folder = "upload"

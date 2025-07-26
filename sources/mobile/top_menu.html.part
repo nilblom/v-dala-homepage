@@ -28,7 +28,7 @@
 		<div class="dropdown-content">
 			<div class="dropdown-link"><a href="accommodation.html#content">Bostäder</a></div>
 			<div class="dropdown-link"><a href="the_library.html#content">Bibliotek</a></div>
-			<div class="dropdown-link">Personlig Rådgivning</div>
+			<div class="dropdown-link"><a href="counselling.html#content">Personlig Rådgivning</a></div>
 			<div class="dropdown-link">Idrott</div>
 		</div>
 	</div>
