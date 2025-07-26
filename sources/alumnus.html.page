@@ -19,8 +19,35 @@
 						Föreningen ordnar varje termin sammankomster med ett varierat program, bland annat after work och söndagsmiddagar med föredrag. För att få föreningens nyhetsbrev och kalendarium, maila
 					</span> <a href="mailto:vdv@v-dala.se">vdv@v-dala.se</a>. <span t="You can also follow them on Facebook.">Du kan också följa dem på</span> <a href="https://www.facebook.com/vdalavanner">Facebook</a>.</span>
 				</p>
-				
-				
+				<div class="subtitle">Alumniföreningar</div>
+				<ul>
+					<li>Föreningen Västmanlands-Dala nations vänner (Friends of V-Dala) is the Nation’s alumni association.</li>
+					<li>V-Dalakörens seniorförening (The V-Dala Choir’s senior members) for those who sang with the Nation’s choir.</li>
+					<li>Föreningen Krutgubbarna for former members of ab Kruthornen and Letta Gardet.</li>
+				</ul>
+				<div class="subtitle">Medlem</div>
+				<p t="Member in V-Dala Vänner is made by signing an alumni membership in the Nation, also known as Older Countryman. The membership is 200 kr per term and everyone who is or has been a member of the nation but no longer is an active student can apply to become an Older Countryman, which also means an automatic membership in V-Dala Vänner. You can sign this membership by contacting the first curator. The membership gives a Nation card and access to all Nation activity.">
+					Medlem i V-Dala vänner blir man genom att teckna alumnmedlemskap i nationen, även känt som äldre landsman. Medlemskapet kostar 200 kronor per termin och alla som är eller någon gång varit medlem i nationen men inte längre är aktiv studerande kan ansöka om att bli äldre landsman, som också innebär ett automatiskt medlemskap i V-Dala vänner. Du tecknar detta medlemskap genom att kontakta förste kurator. Medlemskapet ger nationskort och tillträde till alla nationsaktiviteter.
+				</p>
+				<p t="The member of V-Dala Vänner who before the annual general meeting 2015 had paid to be a permanent member, will also in the future be a member of the association. Also these members can of course apply to become Older Countrymen at the Nation and in doing so receive a Nation card.">
+					Den medlem av V-Dala vänner som innan årsstämman 2015 hade betalat för att vara ständig medlem, kommer även i fortsättningen att vara medlem i föreningen. Även dessa medlemmar kan naturligtvis ansöka om att bli äldre landsmän vid nationen och på så sätt få nationskort.
+				</p>
+				<p t="Eligible for membership are all honorary members, anyone who has been a member for at least five semesters, and others decided by the board of V-Dala Vänner. At present, this association counts around 350 people among its ranks. Membership is 75 SEK/annum (lifetime member 750 SEK). Become a member by depositing the membership fee to the association’s postgiro account 41 38 41-8. As a member, you will receive a registry with information about the members and the Nation’s magazine, Landskapsposten.">
+					Berättigad till medlemskap är alla hedersmedlemmar, den som har varit medlem under åtminstone fem terminer och andra bestämda av styrelsen av V-Dala vänner. För nuvarande inkluderar föreningen runt 350 personer. Medlemskapet kostar 75 kr per år (livstids medlem 750 kr). Bli medlem genom att sätta över medlemsavgiften till föreningens PostGiro-konto 41 38 41-8. Som medlem får du ett register med information om medlemmarna.
+				</p>
+
+				<p t="General meetings are held every other year, normally May 1st, and consequently every four years in conjuncture with the Senior Members’ Meeting. Every semester, the association hosts various functions and gathers present and past members of the nation to, among other things, May dinner, Autumn feast, balls or gasks. V-Dala Vänner supports the Nation, for example with monetary assistance for important investments and activities, presents grant money at the Autumn feast and keeps its members informed of what goes on at the Nation.">
+					Möten hålls vartannat år, generellt 1:a maj, och följaktligen vart fjärde år i samband med de seniora medlemmarnas möte. Varje termin är föreningen värd för olika funktioner och samlar nuvarande och dåvarande medlemmar av nationen till, bland annat, majmiddag, höstfest, baler eller gasker. V-Dala vänner stödjer nationen, till exempel med monetärt stöd för viktiga investeringar och aktiviteter, presenterar bidragspengar på höstfesten och håller dess medlemmar informerade om vad som pågår på nationen.
+				</p>
+				<p t="Föreningen Västmanlands-Dala nations vänner, informally V-Dala Vänner, was originally Föreningen Västmanlänningar och Dalkarlar (the Association Westmen and Dalecarlians), FVDK, which was founded on May 1st, 1955. It was decided that the name be changed at a general meeting on May 1st 2007. Apart from the name, the bylaws remain the same.  Key concepts are  “preserving and strengthening the members’ feelings of fellowship with one another and with the active students of Västmanlands-Dala Nation”  att ”to be the members’ point of contact with the nation in matters which have to do with them” and further to “benefit the nation in other matters.”">
+					Föreningen Västmanlands-Dala nations vänner, till vardags V-Dala vänner, hette från början Föreningen Västmanlänningar och Dalkarlar, FVDK, och bildades den 1 maj 1955. Beslut om namnändring togs på föreningens stämma den 1 maj 2007. Förutom namnet är stadgarna desamma. Nyckelidéer är att bevara och stärka medlemmarnas känsla för gemenskap med varandra och med de aktiva studenterna av Västmanlands-Dala nation vara medlemmarnas kontakt med nationen i ärenden som har att göra med dem och vidare att vara nationen till gagn i andra frågor.
+				</p>
+				<p t="The latest change to the bylaws was made on meeting the 1 of May 2015 and included among other things the new membership Older Countryman. The new bylaws you will find">
+					Den senaste stadgeändringen togs på stämma den 1 maj 2015 och inkluderade bland annat det nya medlemskapet äldre landsman.
+				</p>
+				<p t="The association has yearly meeting on the 1 of May every other year starting from 1965.">
+					Föreningen har årsmöte 1 maj vartannat år räknat från 1965.				
+				</p>
 			</div>
 
 			<include filename="sources/kontakta.html.part"/>
