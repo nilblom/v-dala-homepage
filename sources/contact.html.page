@@ -33,6 +33,7 @@
 			</div>
 
 			<div class="page-single">
+				<div class="page-box-title" t="Opening hours">Öppettider</div>
 				<div style="display: flex;">
 					<div class="page-single--box page-single--leftmost-box">
 						<div class="opening-hours-title" t="Opening hours at the curators office">Öppettider på Kuratorsexpeditionen</div>
