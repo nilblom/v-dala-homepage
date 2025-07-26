@@ -51,6 +51,11 @@ div {
   margin: 20px 0;
 }
 
+.content-box .title {
+	font-size: 35px;
+	margin-bottom: 15px;
+}
+
 .logo-link {
 	margin: 50px 50px 0;
   display: inline-block;
