@@ -12,6 +12,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (localStorage.getItem("language") == "en")
         translate();
+
+    enable_contact_helper();
 });
 
 /* Functions to enable translation to English. */
@@ -32,4 +34,16 @@ function translate() {
         node.innerText = node.getAttribute("t");
         node.setAttribute("t", original_text);
     });
+}
+
+function enable_contact_helper() {
+    var helper = document.getElementById("contact-helper-select");
+    var display = document.getElementById("contact-helper-display");
+    if (helper == null)
+        return;
+    helper.onchange = function() {
+        display.value = helper.value;
+    }
+    // Initialize the helper.
+    display.value = helper.value;
 }
