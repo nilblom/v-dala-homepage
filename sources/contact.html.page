@@ -32,6 +32,164 @@
 				</div>
 			</div>
 
+			<div class="page-single">
+				<div class="title" t="Curatel">Kuratel</div>
+				<div style="display: flex">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<div style="width: 200px; overflow:hidden;">
+							<img class="contact-image" src="images/contact/adrian_pfeffer.png"/>
+						</div>
+						<div class="contact-title">Förste kurator</div>
+						<div class="contact-name">Adrian Pfeffer</div>
+						<div class="contact-telephone">018-133 133</div>
+						<div class="contact-email">1q@v-dala.se</div>
+						<div class="contact-description">För frågor gällande medlemskap, stipendier och nationen i stort.</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Andre kurator</div>
+						<div class="contact-name">(Vakant)</div>
+						<div class="contact-telephone">018-133 133</div>
+						<div class="contact-email">2q@v-dala.se</div>
+						<div class="contact-description">För ärenden av ekonomisk karaktär, frågor gällande löner, lokalbokningar (ej puben) och gask-/balanmälningar.</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--rightmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-group-title">Tredje kurator</div>
+						<div class="contact-name">Alice Elmdahl</div>
+						<div class="contact-telephone">018-133 133</div>
+						<div class="contact-email">3q@v-dala.se</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="page-single">
+				<div class="title" t="Curatel">Inspektorat</div>
+				<div style="display: flex">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image" src="images/contact/johan_tysk.png"/>
+						<div class="contact-title">Inspektor</div>
+						<div class="contact-name">Johan Tysk</div>
+						<div class="contact-email">inspektor@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image" src="images/contact/josefina_jonsson.png"/>
+						<div class="contact-title">Proinspektor</div>
+						<div class="contact-name">Josefina Jonsson</div>
+						<div class="contact-email">proinspektor@v-dala.se</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="page-single">
+				<div class="title" t="">Tjänstemän</div>
+				<div style="display: flex">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ekonomichef</div>
+						<div class="contact-name">Kristoffer Engström Åslund</div>
+						<div class="contact-telephone">018-106367</div>
+						<div class="contact-email">ekonomi@v-dala.se</div>
+						<div class="contact-description">För frågor kring löner, kontakta ekonomichefen.</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="page-single">
+				<div class="title" t="">Klubbverk</div>
+				<div style="display: flex">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Klubbmästare</div>
+						<div class="contact-name">Aarthi Krish</div>
+						<div class="contact-telephone">073-519 00 63</div>
+						<div class="contact-email">klm@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av klubbpersonal samt till uthyrningar och teknik.</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Klubbmästarinna</div>
+						<div class="contact-name">Hillevi Lönnberg Siri</div>
+						<div class="contact-telephone">073-519 00 64</div>
+						<div class="contact-email">klma@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av matinköp och driften av Carl Larssons Café och lunch, samt för kock- och serveringspersonal samt driften av nationens gasker och uthyrningar.</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Barmästare</div>
+						<div class="contact-name">Naresh Krishna</div>
+						<div class="contact-telephone">073-519 00 65</div>
+						<div class="contact-email">barm@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av bartenders, dryckesinköp samt driften av nationens barer på uthyrningar, klubbar och släpp.</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--rightmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Pubchef</div>
+						<div class="contact-name">Harkishan Surjeeth</div>
+						<div class="contact-telephone">073-519 00 66</div>
+						<div class="contact-email">puben@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av pubpersonal, dryckesinköp och driften av Puben.</div>
+					</div>
+				</div>
+				<div style="">
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Uthyrningssäljare (endast nationshusets festsal, ej bostäder)</div>
+						<div class="contact-name">David Eriksson</div>
+						<div class="contact-telephone">073-519 00 67</div>
+						<div class="contact-email">uth@v-dala.se</div>
+						<div class="contact-description">Uthyrningsansvarig sköter nationens uthyrningar. Om du vill ha en fest i vårt hus - så är det den här personen du ska prata med!</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="page-single">
+				<div class="title" t="">Klubbverk</div>
+				<div style="display: flex">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Klubbmästare</div>
+						<div class="contact-name">Aarthi Krish</div>
+						<div class="contact-telephone">073-519 00 63</div>
+						<div class="contact-email">klm@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av klubbpersonal samt till uthyrningar och teknik.</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Klubbmästarinna</div>
+						<div class="contact-name">Hillevi Lönnberg Siri</div>
+						<div class="contact-telephone">073-519 00 64</div>
+						<div class="contact-email">klma@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av matinköp och driften av Carl Larssons Café och lunch, samt för kock- och serveringspersonal samt driften av nationens gasker och uthyrningar.</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Barmästare</div>
+						<div class="contact-name">Naresh Krishna</div>
+						<div class="contact-telephone">073-519 00 65</div>
+						<div class="contact-email">barm@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av bartenders, dryckesinköp samt driften av nationens barer på uthyrningar, klubbar och släpp.</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--rightmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Pubchef</div>
+						<div class="contact-name">Harkishan Surjeeth</div>
+						<div class="contact-telephone">073-519 00 66</div>
+						<div class="contact-email">puben@v-dala.se</div>
+						<div class="contact-description">Ansvarar för anställning av pubpersonal, dryckesinköp och driften av Puben.</div>
+					</div>
+				</div>
+				<div style="">
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Uthyrningssäljare (endast nationshusets festsal, ej bostäder)</div>
+						<div class="contact-name">David Eriksson</div>
+						<div class="contact-telephone">073-519 00 67</div>
+						<div class="contact-email">uth@v-dala.se</div>
+						<div class="contact-description">Uthyrningsansvarig sköter nationens uthyrningar. Om du vill ha en fest i vårt hus - så är det den här personen du ska prata med!</div>
+					</div>
+				</div>
+			</div>
 			<include filename="sources/kontakta.html.part"/>
 		</div>
 	</body>

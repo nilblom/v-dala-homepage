@@ -67,6 +67,47 @@ div {
 	display: inline-block;
 	text-transform: uppercase;
 	font-size: 13px;
+	color: grey;
+	text-decoration: none;
+}
+
+.link a {
+	text-decoration: none;
+	color: grey;
+}
+
+/* Contact page. */
+
+.contact-image {
+	height: 200px;
+	margin-bottom: 10px;
+}
+
+.contact-image-placeholder {
+	height: 200px;
+	width: 200px;
+	margin-bottom: 10px;
+	background: lightgrey;
+}
+
+.contact-title,
+.contact-name {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.contact-telephone {
+	margin-bottom: 5px;
+}
+
+.contact-email {
+	margin-bottom: 10px;
+}
+
+.contact-telephone,
+.contact-email,
+.contact-description {
+	font-weight: lighter;
 }
 
 .v-dala-logo {
@@ -147,6 +188,11 @@ div {
 	width: 100%;
 	text-align: left;
 	padding: 20px;
+}
+
+.page-single-box-1-4 {
+	width: 246px;  /* (1024-40)/4 */
+	text-align: left;
 }
 
 .calendar-month-box {

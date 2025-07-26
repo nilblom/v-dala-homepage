@@ -41,6 +41,13 @@ image_files = [
 	(r"sources\images", "v_dala.png")
 ]
 
+contact_images = [
+	# Images on people for the contact page.
+	(r"sources\images\contact", "adrian_pfeffer.png"),
+	(r"sources\images\contact", "johan_tysk.png"),
+	(r"sources\images\contact", "josefina_jonsson.png")
+]
+
 mixed_files = [
 	("sources", "styles.css"),
 	("sources", "scripts.js")
@@ -88,6 +95,11 @@ def main():
 	for path, filename in mixed_files_mobile:
 		source = os.path.join(path, filename)
 		dest = os.path.join(output_folder, "mobile", filename)
+		shutil.copy(source, dest)
+
+	for path, filename in contact_images:
+		source = os.path.join(path, filename)
+		dest = os.path.join(output_folder, r"images\contact", filename)
 		shutil.copy(source, dest)
 			
 
