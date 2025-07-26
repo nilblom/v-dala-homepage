@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="page-single" style="text-align: left;">
+				<div class="title" t="Become a member">Bli medlem</div>
+				<p t="The Nation is its members. The idea that the nation is an independent entity, a club or a building, is a recent one. Without members, the Nation would not only come to a standstill – for all intents and purposes, it would not exist.">
+					Nationen utgörs av sina medlemmar. Synen på nationen som en självständig enhet, en förening eller en byggnad, är av yngre datum. Utan medlemmar skulle nationen alltså inte bara stå stilla – den skulle per definition inte existera.
+				</p>
+				<p t="Currently, Västmanlands-Dala nation counts around 6,000 people as its members, 99% of whom are active members and students and 1% honorary members.">
+					Västmanlands-Dala nation har i dagsläget omkring 6 000 medlemmar, varav 99 % är aktiva eller förutvarande studenter och 1 % är hedersledamöter.
+				</p>
+
+				<div class="subtitle" t="How do I join?">Hur går jag med?</div>
+
+				<p>
+					<span t="To be able to enroll in the nation you need to be admitted to a course or program at Uppsala University. You can join the nation by visiting the nation house during office hours or during the registration weeks or by visiting the website">För att kunna skriva in dig i Västmanlands-Dala nationen behöver du vara antagen på en kurs vid Uppsala universitet. Du börjar ditt medlemskap genom att besöka nationen under inskrivningens- eller kuratorsexpeditionens öppettider eller genom att besöka</span> <a href="http://uppsalastudent.com">uppsalastudent.com</a>.
+				</p>
+
+				<p t="If you join the nation online your nation card will not be sent to you automatically and the card won’t show up in your app (se below). You need to visit the nation during office hours so we can authorize you in the system.">
+					Om du går med i nationen online kommer ditt nationskort inte bli skickat till dig automatiskt och kortet kommer inte dyka upp i din app. Du måste besöka nationen under öppettider så att vi kan auktorisera dig i systemet.
+				</p>
+				<p t="If you register and pay your membership fee at the nation you will get a temporary nation card that is valid for a month.">
+					 När du skriver in dig eller betalar din terminsavgift på nationen får du ett tillfälligt nationskort i handen som gäller i en månad. Sedan kommer du få ett digitalt kort i Studentkortets app.
+				</p>
+				<p t="Both alumnus members and full paying members can get the nation card digitally in the app Mecenat.">
+					Både alumner och fullt betalande medlemmar kan få nationskortet digitalt i Mecenat-appen.
+				</p>
+				<p t="The semester fee is 330 SEK and you can pay both with credit cards and Swish.">
+					Terminsavgiften är 380 kr och vi tar både kort och swish.
+				</p>
+
+				<p><span t="If you have questions, send an e-mail to">Vid frågor, mejla</span> <a href="mailto:1q@v-dala.se">1q@v-dala.se</a>.</p>
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
