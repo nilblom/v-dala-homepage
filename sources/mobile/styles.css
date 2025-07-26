@@ -40,6 +40,10 @@ div {
 .content {
 	width: 100%;
 	margin: 0;
+
+.content-box-title {
+	margin: 20px;
+  font-size: 35px;
 }
 
 .logo-link {
