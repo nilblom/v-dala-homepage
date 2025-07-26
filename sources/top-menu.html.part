@@ -54,7 +54,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="link" t="Rent V-Dala!">Hyr V-Dala</div>
+		<div class="link"><a href="rentvdala.html" t="Rent V-Dala!">Hyr V-Dala</a></div>
 		<div class="link"><a href="contact.html" t="Contact">Kontakt</a></div>
 	</div>
 </div>

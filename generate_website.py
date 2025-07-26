@@ -72,8 +72,8 @@ pages = [
 	("sources", "abkruthornenlettagardet.html.page"),
 	("sources", "scholarships.html.page"),
 	("sources", "the_library.html.page"),
-	("sources", "counselling.html.page")
-
+	("sources", "counselling.html.page"),
+	("sources", "rentvdala.html.page")
 ]
 
 image_files = [
