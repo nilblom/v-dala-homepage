@@ -11,7 +11,7 @@
 				<div class="dropdown-link"><a href="landskap.html" t="Landskap">Landskap</a></div>
 				<div class="dropdown-link"><a href="news.html" t="News">Nyheter</a></div>
 				<div class="dropdown-link"><a href="/ansok" t="Apply for post">Sök post</a></div>
-				<div class="dropdown-link" t="Safety on V-Dala">Trygghet på V-Dala</div>
+				<div class="dropdown-link"><a href="safety.html" t="Safety on V-Dala">Trygghet på V-Dala</a></div>
 			</div>
 		</div>
 		<div class="link dropdown">

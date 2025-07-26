@@ -63,7 +63,8 @@ pages = [
 	("sources", "sister_nations.html.page"),
 	("sources", "documents.html.page"),
 	("sources", "landskap.html.page"),
-	("sources", "news.html.page")
+	("sources", "news.html.page"),
+	("sources", "safety.html.page")
 ]
 
 image_files = [
