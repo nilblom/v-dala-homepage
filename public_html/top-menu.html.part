@@ -18,7 +18,7 @@
 		<div class="link">Förmåner</div>
 		<div class="link">Bostad</div>
 	</div>
-	<img src="images/v_dala.png" class="v-dala-logo">
+	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
 	<div class="top-menu--right">
 		<div class="link">Engagera dig!</div>
 		<div class="link">Nöje</div>
