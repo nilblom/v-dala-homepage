@@ -71,7 +71,7 @@
 					<div class="contact-email">3q@v-dala.se</div>
 				</div>
 
-				<div class="title" t="Curatel">Inspektorat</div>
+				<div class="title" t="Inspectorate">Inspektorat</div>
 
 				<div class="contact">
 					<img class="contact-image" src="../images/contact/johan_tysk.png"/>
@@ -87,7 +87,7 @@
 					<div class="contact-email">proinspektor@v-dala.se</div>
 				</div>
 
-				<div class="title" t="">Tjänstemän</div>
+				<div class="title" t="Civil Servants">Tjänstemän</div>
 		
 				<div class="contact">
 					<img class="contact-image-placeholder"/>
@@ -98,7 +98,7 @@
 					<div class="contact-description">För frågor kring löner, kontakta ekonomichefen.</div>
 				</div>
 
-				<div class="title" t="">Klubbverk</div>
+				<div class="title">Klubbverk</div>
 
 				<div class="contact">
 					<img class="contact-image-placeholder"/>
@@ -144,7 +144,7 @@
 					<div class="contact-description">Uthyrningsansvarig sköter nationens uthyrningar. Om du vill ha en fest i vårt hus - så är det den här personen du ska prata med!</div>
 				</div>
 			
-				<div class="title" t="">Styrelsen</div>
+				<div class="title" t="The Board">Styrelsen</div>
 
 				<div class="contact">
 					<img class="contact-image-placeholder"/>
