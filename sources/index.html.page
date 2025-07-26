@@ -23,7 +23,7 @@
 
 			<div class="page-trio">
 				<div class="page-trio--box">
-					<div class="title" t="Calendar">Kalendarium</div>
+					<div class="page-box-title" t="Calendar">Kalendarium</div>
 					<div class="event-list">
 						<ul>
 							<li t="16 may: Sister-nation-sitting at 18-02">16 maj: Vännationssittning kl 18-02</li>
@@ -35,11 +35,11 @@
 				</div>
 
 				<div class="page-trio--box middle">
-					<div class="title" t="Latest news">Senaste nytt</div>
+					<div class="page-box-title" t="Latest news">Senaste nytt</div>
 				</div>
 
 				<div class="page-trio--box">
-					<div class="title" t="Useful links">Användbara länkar</div>
+					<div class="page-box-title" t="Useful links">Användbara länkar</div>
 				</div>
 			</div>
 
