@@ -1,3 +1,5 @@
+var lunr_results, lunr_idx;
+
 document.addEventListener("DOMContentLoaded", function() {
     enable_translate();
 
@@ -5,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
     	translate();
 
     enable_contact_helper();
+    enable_search();
 });
 
 
@@ -31,9 +34,28 @@ function translate() {
 function enable_contact_helper() {
 	var helper = document.getElementById("contact-helper-select");
 	var display = document.getElementById("contact-helper-display");
+	if (helper == null)
+		return;
 	helper.onchange = function() {
 		display.value = helper.value;
 	}
 	// Initialize the helper.
 	display.value = helper.value;
+}
+
+function enable_search() {
+	lunr_idx = lunr(function () {
+  		this.ref('filename')
+  		this.field('text')
+  		this.field("title")
+
+  	lunr_documents.forEach(function (doc) {
+    	this.add(doc)
+  	}, this);
+})
+
+	var input = document.getElementById("search-input");
+	input.oninput = function() {
+		lunr_results = idx.search(input.value);
+	}
 }
