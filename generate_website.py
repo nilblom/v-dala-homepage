@@ -59,6 +59,7 @@ pages = [
 	("sources", "alumnus.html.page"),
 	("sources", "honorary_members.html.page"),
 	("sources", "leaving_nation.html.page"),
+	("sources", "sports.html.page"),
 	("sources", "history.html.page"),
 	("sources", "sister_nations.html.page"),
 	("sources", "documents.html.page"),
@@ -137,7 +138,8 @@ mobile_pages = [
 	(r"sources\mobile", "honorary_members.html.page"),
 	(r"sources\mobile", "the_library.html.page"),
 	(r"sources\mobile", "leaving_nation.html.page"),
-	(r"sources\mobile", "counselling.html.page")
+	(r"sources\mobile", "counselling.html.page"),
+	(r"sources\mobile", "sports.html.page")
 ]
 
 output_folder = "upload"
