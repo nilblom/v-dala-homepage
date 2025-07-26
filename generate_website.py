@@ -35,7 +35,8 @@ pages = [
 	("sources", "contact.html.page"),
 	("sources", "membership.html.page"),
 	("sources", "pay_membership_fee.html.page"),
-	("sources", "alumnus.html.page")
+	("sources", "alumnus.html.page"),
+	("sources", "honorary_members.html.page")
 ]
 
 image_files = [
