@@ -13,22 +13,22 @@
 				<div class="title" t="Contact">Kontakt</div>
 				<div style="display: block; margin-top: 20px;">
 					<div style="font-size: 25px;" t="My question is about:">Min fråga handlar om:</div>
-					<select style="font-size: 25px; margin: 10px;">
-						<option value="Bostad" t="Accommodation">Bostad</option>
-						<option value="Medlemskap" t="Membership">Medlemskap</option>
-						<option value="Uthyrning" t="Rental">Uthyrning</option>
-						<option value="Taket - Sommarrestaurang" t="Taket - Summer restaurant">Taket - Sommarrestaurang</option>
-						<option value="Boka rum i Puben" t="Book a room in the Pub">Boka rum i Puben</option>
-						<option value="Ansök till post" t="Apply for post">Ansök till post</option>
-						<option value="Internationella utskottet" t="International committee">Internationella utskottet</option>
-						<option value="Idrott" t="Sports">Idrott</option>
-						<option value="Arbeta på nation" t="Work at the nation">Arbeta på nation</option>
-						<option value="Ekonomi/lönefrågor" t="Economics/salary questions">Ekonomi/lönefrågor</option>
-						<option value="Bibliotek &amp; läsesalar" t="Library & reading rooms">Bibliotek &amp; läsesalar</option>
-						<option value="Annat" t="Other">Annat</option>
+					<select id="contact-helper-select" style="font-size: 25px; margin: 10px;">
+						<option value="bostad@v-dalabostad.se" t="Accommodation">Bostad</option>
+						<option value="1q@v-dala.se" t="Membership">Medlemskap</option>
+						<option value="uthyrning@v-dala.se" t="Rental">Uthyrning</option>
+						<option value="taket@v-dala.se" t="Taket - Summer restaurant">Taket - Sommarrestaurang</option>
+						<option value="puben@v-dala.se" t="Book a room in the Pub">Boka rum i Puben</option>
+						<option value="1q@v-dala.se" t="Apply for post">Ansök till post</option>
+						<option value="iu@v-dala.se" t="International committee">Internationella utskottet</option>
+						<option value="if@v-dala.se" t="Sports">Idrott</option>
+						<option value="2q@v-dala.se" t="Work at the nation">Arbeta på nation</option>
+						<option value="ekonomi@v-dala.se" t="Economics/salary questions">Ekonomi/lönefrågor</option>
+						<option value="bibliotekarie@v-dala.se" t="Library & reading rooms">Bibliotek &amp; läsesalar</option>
+						<option value="1q@v-dala.se" t="Other">Annat</option>
 					</select>
 					<div style="font-size: 25px; margin-top: 10px;" t="You should send an e-mail to:">Du ska mejla till:</div>
-					<input style="font-size: 25px; margin: 10px; text-align: center;" value="1q@v-dala.se"/>
+					<input id="contact-helper-display" style="font-size: 25px; margin: 10px; text-align: center;" value="1q@v-dala.se"/>
 				</div>
 			</div>
 
