@@ -1,0 +1,66 @@
+Guide to Editing the V-Dala Website
+===================================
+
+Contents
+--------
+1. Adding new events
+
+
+1. Adding new events
+--------------------
+To add a new event, start by copying one of the files in
+`sources\events`. Name it according to the following format:
+
+	17_5_vannationssittning.html.part
+	 | |         |            |
+	 | |         |             `- The file ending ".html.part"
+	 | |         |              
+     | |         `-- A lower-case short name for the event
+     | |
+     | `- Day of the month of the event
+     | 
+      `-- Month of the event
+
+Edit your file in a text editor. I recommend using a text
+editor called Sublime Text. It is free to use and can be found
+at www.sublimetext.com. It features syntax highlighting, which
+means that the HTML code will be colored to make it easy to
+distinguish content from code. Fill in the text (title,
+subtitle, text). You should be able to see where they fit in
+(the content of each <div> tag).
+
+Try to formulate the contents in sentences, not in tables or
+lists. This is so that it can work (be easily viewable) on
+the mobile web page.
+
+In `sources\events.html.page` you will need to make an entry
+for the calendar. Look at previously added events to see what
+the HTML structure is. The text of the event should follow
+the format:
+
+	16: Vännationssittning kl 18-02
+	 ||         |             `- The time of the event
+	 ||          `- The name of the event
+	 |`- A colon (:)
+	 |
+	 `-- Day of the event
+
+Be sure to make a relatively short name for the event, or
+it will be difficult to distinguish it among the other
+events in the calendar.
+
+Last, if the event should be shown in the "Events" box
+on the front page, you should add it there too. The HTML
+structure is practically the same and the file can be found
+in `sources`: the name of it is `index.html.page`.
+
+The last thing to do is to make a Git commit with your
+changes. Make a comment with the name of the event that
+you added, for example "Event added: Vännationssittning.".
+
+Push your changes to the `changes` branch on GitHub. Your
+changes will be reviewed and approved as soon as possible.
+If you have editor status you can make changes on the main
+branch directly -- your changes will be published as soon
+as the script runs as a result of your change being
+committed.
