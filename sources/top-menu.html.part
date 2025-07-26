@@ -24,7 +24,16 @@
 				<div class="dropdown-link"><a href="leaving_nation.html" t="Leaving the Nation">Gå ur nationen</a></div>
 			</div>
 		</div>
-		<div class="link" t="Benefits">Förmåner</div>
+		<div class="link dropdown">
+			<span t="Benefits">Förmåner</span>
+			<div class="dropdown-content">
+				<div class="dropdown-link"><a href="accommodation.html" t="Accommodation">Bostad</a></div>
+				<div class="dropdown-link"><a href="scholarships.html" t="Scholarships">Stipendier</a></div>
+				<div class="dropdown-link"><a href="the_library.html" t="The Library">Biblioteket</a></div>
+				<div class="dropdown-link"><a href="counselling.html" t="Counselling">Personlig Rådgivning</a></div>
+				<div class="dropdown-link"><a href="sports.html" t="Sports committee">Idrott</a></div> 
+			</div>
+		</div>
 		<div class="link" t="Living">Bostad</div>
 	</div>
 	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
