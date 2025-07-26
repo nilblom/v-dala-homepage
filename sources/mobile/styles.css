@@ -47,8 +47,8 @@ div {
 }
 
 .content-box-title {
-	margin: 20px;
   font-size: 35px;
+  margin: 20px 0;
 }
 
 .logo-link {
@@ -69,18 +69,8 @@ div {
 	margin: 20px;
 }
 
-.content-box--title {
-	margin: 20px;
-}
-
-.content-box--subtitle {
-	margin: 20px;
-  font-size: 18px;
-}
-
-.content-box--text {
-	margin: 20px;
-	font-size: 16px;
+.content-box-text {
+	font-size: 20px;
 }
 
 .desktop-link {
@@ -227,16 +217,16 @@ div {
 }
 
 .event-title {
-	margin: 20px;
+	margin: 20px 0;
 }
 
 .event-subtitle {
-	margin: 20px;
+	margin: 20px 0;
   font-size: 18px;
 }
 
 .event-text {
-	margin: 20px;
+	margin: 20px 0;
 	font-size: 16px;
 }
 
