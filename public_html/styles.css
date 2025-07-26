@@ -159,6 +159,10 @@ div {
 	border-radius: 5px;
 }
 
+.page-trio--box.next-to-image {
+	border-radius: 5px 0 0 5px;
+}
+
 .page-trio--box.middle {
 	margin: 0 8px;
 }
