@@ -144,7 +144,12 @@ div {
 }
 
 .page-single {
+	font-weight: lighter;
+}
 
+.subtitle {
+	font-size: 20px;
+	font-weight: bold;
 }
 
 .page-single--1-3 {
