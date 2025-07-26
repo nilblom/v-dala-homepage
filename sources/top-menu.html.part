@@ -38,7 +38,7 @@
 	</div>
 	<a href="index.html"><img src="images/v_dala.png" class="v-dala-logo"></a>
 	<div class="top-menu--right">
-		<div class="link" t="Get involved!">Engagera dig!</div>
+		<div class="link"><a href="engage.html" t="Get involved!">Engagera dig!</a></div>
 		<div class="link" t="Fun">Nöje</div>
 		<div class="link" t="Rent V-Dala!">Hyr V-Dala</div>
 		<div class="link"><a href="contact.html" t="Contact">Kontakt</a></div>
