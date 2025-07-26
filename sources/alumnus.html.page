@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<title>Studentnationen med flest bostäder | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="page-single" style="text-align: left;">
+				<div class="title" t="Alumnus – V-Dala vänner">Alumn – V-Dala vänner</div>
+				<p t="V-dala vänner is the Nations alumnus association, whose main purpose is to keep and strengthen the feeling of unity within and with Västmanlands-Dala Nations active students, to be a means of contact for the Nation regarding matters that touches the members, and to otherwise act for the benefit of the Nation.">
+					V-Dala vänner är nationens alumnförening, vars främsta syfte är att hos medlemmarna bevara och stärka känsla av samhörighet inbördes och med Västmanlands-Dala nations aktiva studenter, att vara kontaktorgan för nationen i angelägenheter som berör medlemmarna, samt att även i övrigt verka till gagn för nationen.
+				</p>
+				<p>
+					<span t="The association arranges gatherings every term with a varied programme, for example after-work and Sunday dinners with lectures. To receive the associations newsletter and calendar, send an e-mail to">
+						Föreningen ordnar varje termin sammankomster med ett varierat program, bland annat after work och söndagsmiddagar med föredrag. För att få föreningens nyhetsbrev och kalendarium, maila
+					</span> <a href="mailto:vdv@v-dala.se">vdv@v-dala.se</a>. <span t="You can also follow them on Facebook.">Du kan också följa dem på</span> <a href="https://www.facebook.com/vdalavanner">Facebook</a>.</span>
+				</p>
+				
+				
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
