@@ -10,24 +10,24 @@
 			<include filename="sources/top-menu.html.part"/>
 
 			<div class="calendar page-single">
-				<div class="title">Kontakt</div>
+				<div class="title" t="Contact">Kontakt</div>
 				<div style="display: block; margin-top: 20px;">
-					<div style="font-size: 25px;">Min fråga handlar om:</div>
+					<div style="font-size: 25px;" t="My question is about:">Min fråga handlar om:</div>
 					<select style="font-size: 25px; margin: 10px;">
-						<option value="Bostad">Bostad</option>
-						<option value="Medlemskap">Medlemskap</option>
-						<option value="Uthyrning">Uthyrning</option>
-						<option value="Taket - Sommarrestaurang">Taket - Sommarrestaurang</option>
-						<option value="Boka rum i Puben">Boka rum i Puben</option>
-						<option value="Ansök till post">Ansök till post</option>
-						<option value="Internationella utskottet">Internationella utskottet</option>
-						<option value="Idrott">Idrott</option>
-						<option value="Arbeta på nation">Arbeta på nation</option>
-						<option value="Ekonomi/lönefrågor">Ekonomi/lönefrågor</option>
-						<option value="Bibliotek &amp; läsesalar">Bibliotek &amp; läsesalar</option>
-						<option value="Annat">Annat</option>
+						<option value="Bostad" t="Accommodation">Bostad</option>
+						<option value="Medlemskap" t="Membership">Medlemskap</option>
+						<option value="Uthyrning" t="Rental">Uthyrning</option>
+						<option value="Taket - Sommarrestaurang" t="Taket - Summer restaurant">Taket - Sommarrestaurang</option>
+						<option value="Boka rum i Puben" t="Book a room in the Pub">Boka rum i Puben</option>
+						<option value="Ansök till post" t="Apply for post">Ansök till post</option>
+						<option value="Internationella utskottet" t="International committee">Internationella utskottet</option>
+						<option value="Idrott" t="Sports">Idrott</option>
+						<option value="Arbeta på nation" t="Work at the nation">Arbeta på nation</option>
+						<option value="Ekonomi/lönefrågor" t="Economics/salary questions">Ekonomi/lönefrågor</option>
+						<option value="Bibliotek &amp; läsesalar" t="Library & reading rooms">Bibliotek &amp; läsesalar</option>
+						<option value="Annat" t="Other">Annat</option>
 					</select>
-					<div style="font-size: 25px; margin-top: 10px;">Du ska mejla till:</div>
+					<div style="font-size: 25px; margin-top: 10px;" t="You should send an e-mail to:">Du ska mejla till:</div>
 					<input style="font-size: 25px; margin: 10px; text-align: center;" value="1q@v-dala.se"/>
 				</div>
 			</div>
@@ -35,37 +35,37 @@
 			<div class="page-single">
 				<div style="display: flex;">
 					<div class="page-single--box page-single--leftmost-box">
-						<div class="opening-hours-title">Öppettider på Kuratorsexpeditionen</div>
-						<div class="opening-hours-description">
+						<div class="opening-hours-title" t="Opening hours at the curators office">Öppettider på Kuratorsexpeditionen</div>
+						<div class="opening-hours-description" t="The first curator deal in membership, sales of tickets and guest cards, scholarships and general questions about the nation.">
 							Förste kurators behandlar ärenden gällande medlemskap, försäljning av biljetter och gästkort, stipendier och allmänna frågor om nationen.
 						</div>
 						<civ class="opening-hours-times">
-							<div class="row"><span class="day">Måndag:</span><span class="time">11–13</span></div>
-							<div class="row"><span class="day">Tisdag:</span><span class="time">16–18</span></div>
-							<div class="row"><span class="day">Onsdag:</span><span class="time">14–16</span></div>
-							<div class="row"><span class="day">Torsdag:</span><span class="time">16–18</span></div>
-							<div class="row"><span class="day">Fredag:</span><span class="time">11–13</span></div>
+							<div class="row"><span class="day" t="Monday">Måndag:</span><span class="time">11–13</span></div>
+							<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">16–18</span></div>
+							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">14–16</span></div>
+							<div class="row"><span class="day" t="Thursday">Torsdag:</span><span class="time">16–18</span></div>
+							<div class="row"><span class="day" t="Friday">Fredag:</span><span class="time">11–13</span></div>
 						</civ>
 					</div>
 					<div class="page-single--box">
-						<div class="opening-hours-title">Stiftelsen Västmanlands-Dala nations studentbostäder</div>
+						<div class="opening-hours-title" t="Västmanlands-Dala Nation Student Housing Foundation">Stiftelsen Västmanlands-Dala nations studentbostäder</div>
 						<div class="opening-hours-description">
-							Se bostadsstiftelsens öppettider på <a href="https://www.nationsgardarna.se/vastmanlands-dala">Nationsgårdarna.se</a>
+							<span t="See opening hours">Se bostadsstiftelsens öppettider på</span> <a href="https://www.nationsgardarna.se/vastmanlands-dala">Nationsgårdarna.se</a>
 						</div>
 					</div>
 					<div class="page-single--box page-single--rightmost-box">
-						<div class="opening-hours-title">Bibliotek och läsesalar</div>
-						<div class="opening-hours-description">Under terminerna är läsesalarna öppna varje vardag mellan 10 – 18.</div>
-						<div class="opening-hours-description">
+						<div class="opening-hours-title" t="Library and reading rooms">Bibliotek och läsesalar</div>
+						<div class="opening-hours-description" t="During the semester the reading rooms are open every day between 10-18.">Under terminerna är läsesalarna öppna varje vardag mellan 10 – 18.</div>
+						<div class="opening-hours-description" t="Library opening hours:">
 							Bibliotekets öppettider:
 						</div>
 						<div class="opening-hours-times">
-							<div class="row"><span class="day">Måndag - Torsdag:</span><span class="time">15:00–18:00</span></div>
-							<div class="row"><span class="day">Fredag:</span><span class="time">10:00–13:00</span></div>
+							<div class="row"><span class="day" t="Monday - Thursday">Måndag - Torsdag:</span><span class="time">15:00–18:00</span></div>
+							<div class="row"><span class="day" t="Friday:">Fredag:</span><span class="time">10:00–13:00</span></div>
 						</div>
-						<div class="opening-hours-description">Bibliotekariens mottagningstid:</div>
+						<div class="opening-hours-description" t="Librarian's office hours">Bibliotekariens mottagningstid:</div>
 						<div class="opening-hours-times">
-							<div class="row"><span class="day">Onsdag:</span><span class="time">15:00–18:00</span></div>
+							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">15:00–18:00</span></div>
 						</div>
 					</div>
 				</div>
@@ -73,20 +73,20 @@
 					<div class="page-single--box page-single--leftmost-box">
 						<div class="opening-hours-title">Café Avec</div>
 						<div class="opening-hours-times">
-							<div class="row"><span class="day">Tisdag:</span><span class="time">18:00-22:00</span></div>
+							<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">18:00-22:00</span></div>
 						</div>
 					</div>
 					<div class="page-single--box">
-						<div class="opening-hours-title">Carl Larsson-lunchen</div>
+						<div class="opening-hours-title" t="Carl Larson lunch">Carl Larsson-lunchen</div>
 						<div class="opening-hours-times">
-							<div class="row"><span class="day">Onsdag:</span><span class="time">11:30–15:00</span></div>
+							<div class="row"><span class="day" t="Wednesday">Onsdag:</span><span class="time">11:30–15:00</span></div>
 						</div>
 					</div>
 					<div class="page-single--box page-single--rightmost-box">
-						<div class="opening-hours-title">Klubbverkets öppettider</div>
+						<div class="opening-hours-title" t="The club's opening hours">Klubbverkets öppettider</div>
 						<div class="opening-hours-times">
-						<div class="row"><span class="day">Tisdag:</span><span class="time">14:00–16:00</span></div>
-						<div class="row"><span class="day">Torsdag:</span><span class="time">14:00–16:00</span></div>
+						<div class="row"><span class="day" t="Tuesday">Tisdag:</span><span class="time">14:00–16:00</span></div>
+						<div class="row"><span class="day" t="Thursday">Torsdag:</span><span class="time">14:00–16:00</span></div>
 						</div>
 					</div>
 				</div>
