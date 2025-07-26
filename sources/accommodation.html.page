@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title t="Alumnnus - V-Dala vänner | V-Dala nation">Alumn - V-Dala vänner | V-Dala nation</title>
+		<include filename="sources/statics.html.part"/>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div class="content">
+			<include filename="sources/mobile-link.html.part"/>
+			<include filename="sources/top-menu.html.part"/>
+
+			<div class="page-single" style="text-align: left;">
+				<div class="title" t="Student housing">Studentbostad</div>
+				
+				<p t="Members of V-Dala Nation are eligible for housing through Västmanlands-Dala Nation’s student housing foundation (Västmanlands-Dala nations studentbostäders bostadsstiftelse, “Stiftelsen”).">Medlemmar i V-Dala nation kan få studentboende i Uppsala genom Västmanlands-Dala nations studentbostäders bostadsstiftelse.</p>
+
+				<p><span t="To be eligible, you must first become a member of V-Dala Nation and create a profile on">För att få en studentbostad krävs först att du skriver in dig på V-Dala nation, sedan skapar du en profil på</span> <a href="www.v-dalabostad.se">www.nationsgardarna.se</a> <span t="after which you are registered in the queue.">och därefter står du i vår bostadskö.</span></p>
+
+				<p t="One point in the queue is awarded per semester, and certain ways of getting involved in the Nation give extra points. Contact the First Curator if you have any questions regarding functionary posts at the nation.">Medlemmar får 1 poäng i kön per termin och det finns poster på V-Dala som gör att du genom ditt engagemang på nationen kan få extrapoäng. Kontakta Förste Kurator om du har några frågor om nationens funktionärsposter.</p>
+
+				<p t="At the start of each semester, it is customary that a lottery (“recce-utlottning”) is conducted to provide a few new arrivals with rooms – generally in so-called tripletter (shared three bedroom flats).">I början av varje termin är det vanligt att ett lotteri (”recce-utlottning”) genomförs för att ge några få nyanlända studenter rum – vanligtvis i så kallade tripletter (delade lägenheter med tre sovrum).</p>
+
+				<p><span t="The Housing Foundation has its own office on Svartmangatan 16 (next to the Nation house) and any questions regarding housing should be sent to them. The Housing Foundation e-mail address:">Bostadsstiftelsen har ett eget kontor på Svartmangatan (i närheten av nationshuset) och frågor rörande boende hänvisas till dem. Bostadsstiftelsens e-postadress:</span> <a href="mailto:bostad@v-dalabostad.se">bostad@v-dalabostad.se</a></p>
+
+				<p>V-Dalas studentbostäder består av totalt 1531 enheter:</p>
+
+				<ul>
+					<li t="Nya Triangeln – 48 rooms">Nya Triangeln – 48 korridorsrum</li>
+					<li>
+						Triangeln - <span t="63 flats – 72 tripletter with 13 m2 rooms – 92 rooms approx. 19 m2 – 8 licentiatrum (one bedroom flats)">63 lägenheter – 72 Tripletter – 92 st korridorsrum ca. 19 m2 - 8 licentiatrum (enrumslägenheter)</span></li>
+					<li>Svartman  – <span t="38 rooms - 19 flats">38 korridorsrum – 19 lägenheter</span></li>
+					<li>Observatoriet – <span t="118 flats">118 lägenheter</span></li>
+					<li>Majklockan – <span t="376 flats">376 lägenheter</span></li>
+					<li>Ängsklockan – <span t="14 rooms - 388 flats">14 korridorsrum – 388 lägenheter</span></li>
+					<li>Misteln – <span t="170 shared flats - 133 flats">170 gemensamhetsboenden – 133 lägenheter</span></li>
+				</ul>
+				
+			</div>
+
+			<include filename="sources/kontakta.html.part"/>
+		</div>
+	</body>
+</html>
