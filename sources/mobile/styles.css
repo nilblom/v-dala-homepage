@@ -1,10 +1,13 @@
 body {
 	font-family: "Josefin Sans";
 	text-align: center;
-	background: linear-gradient(90deg, #034992, #034992bd, #034992);
 	margin: 0;
 	background: white;
 	font-size: 30px;
+	background-image: url(../images/v_dala.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 div {
@@ -40,6 +43,8 @@ div {
 .content {
 	width: 100%;
 	margin: 0;
+	backdrop-filter: blur(10px);
+}
 
 .content-box-title {
 	margin: 20px;
