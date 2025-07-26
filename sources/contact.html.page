@@ -34,9 +34,9 @@
 
 			<div class="page-single">
 				<div class="title" t="Curatel">Kuratel</div>
-				<div style="display: flex">
+				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
-						<div style="width: 200px; overflow:hidden;">
+						<div style="width: 200px; overflow:hidden; margin-bottom: 10px;">
 							<img class="contact-image" src="images/contact/adrian_pfeffer.png"/>
 						</div>
 						<div class="contact-title">Förste kurator</div>
@@ -65,7 +65,7 @@
 
 			<div class="page-single">
 				<div class="title" t="Curatel">Inspektorat</div>
-				<div style="display: flex">
+				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
 						<img class="contact-image" src="images/contact/johan_tysk.png"/>
 						<div class="contact-title">Inspektor</div>
@@ -83,7 +83,7 @@
 
 			<div class="page-single">
 				<div class="title" t="">Tjänstemän</div>
-				<div style="display: flex">
+				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
 						<img class="contact-image-placeholder"/>
 						<div class="contact-title">Ekonomichef</div>
@@ -97,7 +97,7 @@
 
 			<div class="page-single">
 				<div class="title" t="">Klubbverk</div>
-				<div style="display: flex">
+				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
 						<img class="contact-image-placeholder"/>
 						<div class="contact-title">Klubbmästare</div>
@@ -144,49 +144,122 @@
 			</div>
 			
 			<div class="page-single">
-				<div class="title" t="">Klubbverk</div>
-				<div style="display: flex">
+				<div class="title" t="">Styrelsen</div>
+				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
 						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Klubbmästare</div>
-						<div class="contact-name">Aarthi Krish</div>
-						<div class="contact-telephone">073-519 00 63</div>
-						<div class="contact-email">klm@v-dala.se</div>
-						<div class="contact-description">Ansvarar för anställning av klubbpersonal samt till uthyrningar och teknik.</div>
+						<div class="contact-title">Arbetsmiljö- och trivselutskottet</div>
+						<div class="contact-email">arbtru@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
+							<img class="contact-image" src="images/contact/adrian_pfeffer_2.png"/>
+						</div>
+						<div class="contact-title">Förste kurator</div>
+						<div class="contact-name">Adrian Pfeffer</div>
+						<div class="contact-email">1q@v-dala.se</div>
 					</div>
 					<div class="page-single-box-1-4">
 						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Klubbmästarinna</div>
-						<div class="contact-name">Hillevi Lönnberg Siri</div>
-						<div class="contact-telephone">073-519 00 64</div>
-						<div class="contact-email">klma@v-dala.se</div>
-						<div class="contact-description">Ansvarar för anställning av matinköp och driften av Carl Larssons Café och lunch, samt för kock- och serveringspersonal samt driften av nationens gasker och uthyrningar.</div>
-					</div>
-					<div class="page-single-box-1-4">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Barmästare</div>
-						<div class="contact-name">Naresh Krishna</div>
-						<div class="contact-telephone">073-519 00 65</div>
-						<div class="contact-email">barm@v-dala.se</div>
-						<div class="contact-description">Ansvarar för anställning av bartenders, dryckesinköp samt driften av nationens barer på uthyrningar, klubbar och släpp.</div>
+						<div class="contact-title">Andre kurator</div>
+						<div class="contact-name">(Vakant)</div>
+						<div class="contact-email">2q@v-dala.se</div>
 					</div>
 					<div class="page-single-box-1-4 page-single--rightmost-box">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Pubchef</div>
-						<div class="contact-name">Harkishan Surjeeth</div>
-						<div class="contact-telephone">073-519 00 66</div>
-						<div class="contact-email">puben@v-dala.se</div>
-						<div class="contact-description">Ansvarar för anställning av pubpersonal, dryckesinköp och driften av Puben.</div>
+						<img class="contact-image" src="images/contact/joel_redner.jpg"/>
+						<div class="contact-title">Bibliotekarie</div>
+						<div class="contact-name">Joel Redner</div>
+						<div class="contact-email">bibliotekarie@v-dala.se</div>
 					</div>
 				</div>
-				<div style="">
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image" src="images/contact/johan_tysk.png"/>
+						<div class="contact-title">Inspektor</div>
+						<div class="contact-name">Johan Tysk</div>
+						<div class="contact-email">inspektor@v-dala.se</div>
+					</div>
 					<div class="page-single-box-1-4">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Uthyrningssäljare (endast nationshusets festsal, ej bostäder)</div>
-						<div class="contact-name">David Eriksson</div>
-						<div class="contact-telephone">073-519 00 67</div>
-						<div class="contact-email">uth@v-dala.se</div>
-						<div class="contact-description">Uthyrningsansvarig sköter nationens uthyrningar. Om du vill ha en fest i vårt hus - så är det den här personen du ska prata med!</div>
+						<img class="contact-image" src="images/contact/josefina_jonsson.png"/>
+						<div class="contact-title">Proinspektor</div>
+						<div class="contact-name">Josefina Jonsson</div>
+						<div class="contact-email">proinspektor@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/rolf_kroon.png"/>
+						<div class="contact-title">Skattmästare</div>
+						<div class="contact-name">Rolf Kroon</div>
+						<div class="contact-email">skattm@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/helene_erbing_backstrom.png"/>
+						<div class="contact-title">Biträdande skattmästare</div>
+						<div class="contact-name">Helene Erbing Backström</div>
+						<div class="contact-email">stallf.skattm@v-dala.se</div>
+					</div>
+				</div>
+				<div class="page-single-row">
+					<div class="page-single-box-1-4">
+						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
+							<img class="contact-image" src="images/contact/linn_tagerud.png"/>
+						</div>
+						<div class="contact-title">Förste kurator emerita</div>
+						<div class="contact-name">Linn Tagerud</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
+							<img class="contact-image" src="images/contact/veronica_ekholm.png"/>
+						</div>
+						<div class="contact-title">Andre kurator emerita</div>
+						<div class="contact-name">Veronica Ekholm</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/hans_petersson.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2025-2028</div>
+						<div class="contact-name">Hans Petersson</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/katarina_barrling.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2025-2028</div>
+						<div class="contact-name">Katarina Barrling</div>
+					</div>
+				</div>
+				<div class="page-single-row">
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/charlii_engstrom.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2022-2025</div>
+						<div class="contact-name">Charlii Engström</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
+							<img class="contact-image" src="images/contact/vera_sintorn.jpg"/>
+						</div>
+						<div class="contact-title">Ledamot av styrelsen 2022-2025</div>
+						<div class="contact-name">Vera Sintorn</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/sofia_toll.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2023-2026</div>
+						<div class="contact-name">Sofia Toll</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/marlene_burwik.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2023-2026</div>
+						<div class="contact-name">Marlene Burwik</div>
+					</div>
+				</div>
+				<div class="page-single-row">
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/karin_karlsson.png"/>
+						<div class="contact-title">Ledamot av styrelsen 2024-2027</div>
+						<div class="contact-name">Karin Karlsson</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
+							<img class="contact-image" src="images/contact/adam_tunner_weiderud.png"/>
+						</div>
+						<div class="contact-title">Ledamot av styrelsen 2024-2027</div>
+						<div class="contact-name">Adam Tunner Weiderud</div>
 					</div>
 				</div>
 			</div>

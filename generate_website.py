@@ -45,7 +45,22 @@ contact_images = [
 	# Images on people for the contact page.
 	(r"sources\images\contact", "adrian_pfeffer.png"),
 	(r"sources\images\contact", "johan_tysk.png"),
-	(r"sources\images\contact", "josefina_jonsson.png")
+	(r"sources\images\contact", "josefina_jonsson.png"),
+	(r"sources\images\contact", "adrian_pfeffer_2.png"),
+	(r"sources\images\contact", "joel_redner.jpg"),
+	(r"sources\images\contact", "rolf_kroon.png"),
+	(r"sources\images\contact", "helene_erbing_backstrom.png"),
+	(r"sources\images\contact", "linn_tagerud.png"),
+	(r"sources\images\contact", "veronica_ekholm.png"),
+	(r"sources\images\contact", "hans_petersson.png"),
+	(r"sources\images\contact", "katarina_barrling.png"),
+	(r"sources\images\contact", "charlii_engstrom.png"),
+	(r"sources\images\contact", "vera_sintorn.jpg"),
+	(r"sources\images\contact", "sofia_toll.png"),
+	(r"sources\images\contact", "marlene_burwik.png"),
+	(r"sources\images\contact", "karin_karlsson.png"),
+	(r"sources\images\contact", "adam_tunner_weiderud.png")
+
 ]
 
 mixed_files = [
