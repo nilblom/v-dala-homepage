@@ -123,7 +123,8 @@ mixed_files_mobile = [
 
 mobile_pages = [
 	(r"sources\mobile", "index.html.page"),
-	(r"sources\mobile", "accommodation.html.page")
+	(r"sources\mobile", "accommodation.html.page"),
+	(r"sources\mobile", "event.html.page")
 ]
 
 output_folder = "upload"
