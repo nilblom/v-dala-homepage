@@ -3,9 +3,18 @@ Guide to Editing the V-Dala Website
 
 Contents
 --------
+I. Terminology
+
 0. Conventions in this file
 1. Adding new events
 2. Adding content to a HTML file
+
+
+I. Terminology
+--------------
+Shared page
+	A page that is used both on the desktop and mobile
+	website.
 
 
 0. Conventions in this file
