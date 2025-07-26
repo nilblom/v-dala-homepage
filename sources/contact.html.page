@@ -84,7 +84,7 @@
 			<div class="page-single">
 				<div class="title" t="">Tjänstemän</div>
 				<div class="page-single-row">
-					<div class="page-single-box-1-4 page-single--leftmost-box">
+					<div class="page-single-box-1-4">
 						<img class="contact-image-placeholder"/>
 						<div class="contact-title">Ekonomichef</div>
 						<div class="contact-name">Kristoffer Engström Åslund</div>
