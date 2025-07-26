@@ -1,7 +1,11 @@
 <div style="position: relative;">
-	<div class="search-button">
+	<div class="search-button search-button-dropdown">
         <div class="search-link-magnifying-glass"></div>
         <span style="position: relative; left: 30px;" t="Search the website">Sök på hemsidan</span>
+        <div class="search-button-dropdown-content">
+        	<div style="margin-bottom: 10px;">Enter your search query:</div>
+        	<input id="search-input" style="width: 300px;"/>
+        </div>
     </div>
 	<a href="mobile/index.html" class="mobile-link" t="Show mobile version">Visa mobilversion</a>
 	<a class="mobile-link" id="switch-language" t="Show in Swedish">Visa på engelska</a>
