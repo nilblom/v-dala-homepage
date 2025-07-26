@@ -55,11 +55,11 @@
 						</div>
 					</div>
 					<div style="display: flex; text-align: left; margin-top: 20px; text-transform: uppercase; border-bottom: 1px solid lightgrey; padding-bottom: 10px;">
-						<div style="width: 100%;">facebook→</div>
-						<div style="width: 100%;">instagram→</div>
+						<div style="width: 100%;"><a href="https://www.facebook.com/VDala">facebook→</a></div>
+						<div style="width: 100%;"><a href="http://instagram.com/vdalanation">instagram→</a></div>
 					</div>
 					<div style="text-align: right; margin-top: 20px; text-transform: uppercase;">
-						Alla kontaktuppgifter→
+						<a href="kontakt.html">Alla kontaktuppgifter→</a>
 					</div>
 
 
