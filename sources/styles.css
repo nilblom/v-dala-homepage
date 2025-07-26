@@ -331,6 +331,10 @@ div {
 	font-size: 12px;
 }
 
+.box-bottom-link a {
+	text-decoration: none;
+}
+
 .front-image-text-combo--left,
 .front-image-text-combo--right {
 	width: 50%;
