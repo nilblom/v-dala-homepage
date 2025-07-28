@@ -150,9 +150,7 @@
 						<div class="contact-email">arbtru@v-dala.se</div>
 					</div>
 					<div class="page-single-box-1-4">
-						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/adrian_pfeffer_2.png"/>
-						</div>
+						<img class="contact-image" src="images/contact/adrian_pfeffer_2.png"/>
 						<div class="contact-title">Förste kurator</div>
 						<div class="contact-name">Adrian Pfeffer</div>
 						<div class="contact-email">1q@v-dala.se</div>
