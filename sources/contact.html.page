@@ -292,6 +292,44 @@
 				</div>
 			</div>
 
+<div class="page-single">
+				<div class="title" t="">Biblioteksutskottet</div>
+				<div class="contact-group-information">Biblioteksutskottet driver nationens bibliotek. Tel. 018-13 15 86.</div>
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image" src="images/contact/karin_bjork.jpg"/>
+						<div class="contact-title">Bibliotekarie</div>
+						<div class="contact-name">Karin Björk</div>
+						<div class="contact-email">bibliotekarie@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image" src="images/contact/linnea_nilsson.jpg"/>
+						<div class="contact-title">Biträdande bibliotekarie</div>
+						<div class="contact-name">Linnea Nilsson</div>
+						<div class="contact-email">bibliotekarie@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Arkivarie</div>
+						<div class="contact-name">Mathilda Meijling</div>
+						<div class="contact-email">arkivarie@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--rightmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Biträdande Arkivarie</div>
+						<div class="contact-name">Erik Sjögren Tergius</div>
+					</div>
+				</div>
+				<div class="page-single-row">
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Antikvarie</div>
+						<div class="contact-name">Teodor Eriksson</div>
+						<div class="contact-email">antikvarie@v-dala.se</div>
+					</div>
+				</div>
+			</div>
+
 			<include filename="sources/kontakta.html.part"/>
 		</div>
 	</body>
