@@ -119,6 +119,10 @@ div {
 	font-weight: lighter;
 }
 
+.contact-group-information {
+	margin: 20px;
+}
+
 .v-dala-logo {
 	width: 115px;
 	position: absolute;
