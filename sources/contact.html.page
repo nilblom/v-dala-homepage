@@ -36,9 +36,7 @@
 				<div class="title" t="Curatel">Kuratel</div>
 				<div class="page-single-row">
 					<div class="page-single-box-1-4 page-single--leftmost-box">
-						<div style="width: 200px; overflow:hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/adrian_pfeffer.png"/>
-						</div>
+						<img class="contact-image" src="images/contact/adrian_pfeffer.png"/>
 						<div class="contact-title">Förste kurator</div>
 						<div class="contact-name">Adrian Pfeffer</div>
 						<div class="contact-telephone">018-133 133</div>
@@ -200,16 +198,12 @@
 				</div>
 				<div class="page-single-row">
 					<div class="page-single-box-1-4">
-						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/linn_tagerud.png"/>
-						</div>
+						<img class="contact-image" src="images/contact/linn_tagerud.png"/>
 						<div class="contact-title">Förste kurator emerita</div>
 						<div class="contact-name">Linn Tagerud</div>
 					</div>
 					<div class="page-single-box-1-4">
-						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/veronica_ekholm.png"/>
-						</div>
+						<img class="contact-image" src="images/contact/veronica_ekholm.png"/>
 						<div class="contact-title">Andre kurator emerita</div>
 						<div class="contact-name">Veronica Ekholm</div>
 					</div>
@@ -231,9 +225,7 @@
 						<div class="contact-name">Charlii Engström</div>
 					</div>
 					<div class="page-single-box-1-4">
-						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/vera_sintorn.jpg"/>
-						</div>
+						<img class="contact-image" src="images/contact/vera_sintorn.jpg"/>
 						<div class="contact-title">Ledamot av styrelsen 2022-2025</div>
 						<div class="contact-name">Vera Sintorn</div>
 					</div>
@@ -255,9 +247,7 @@
 						<div class="contact-name">Karin Karlsson</div>
 					</div>
 					<div class="page-single-box-1-4">
-						<div style="width: 200px; height: 200px; overflow: hidden; margin-bottom: 10px;">
-							<img class="contact-image" src="images/contact/adam_tunner_weiderud.png"/>
-						</div>
+						<img class="contact-image" src="images/contact/adam_tunner_weiderud.png"/>
 						<div class="contact-title">Ledamot av styrelsen 2024-2027</div>
 						<div class="contact-name">Adam Tunner Weiderud</div>
 					</div>
