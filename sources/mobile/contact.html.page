@@ -261,6 +261,44 @@
 					<div class="contact-name">Adam Tunner Weiderud</div>
 				</div>
 
+				<div class="title" t="Counselling">Rådgivning</div>
+
+					<div class="contact">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Arbetsmiljö- och trivselutskottet</div>
+						<div class="contact-email">arbtru@v-dala.se</div>
+					</div>
+					
+					<div class="contact">
+						<img class="contact-image" src="../images/contact/hans_degreus.jpg"/>
+						<div class="contact-title">Nationskaplan</div>
+						<div class="contact-name">Hans Degréus</div>
+						<div class="contact-email">nationskaplan@v-dala.se</div>
+					</div>
+					
+					<div class="contact">
+						<img class="contact-image" src="../images/contact/agnes_domar.jpg"/>
+						<div class="contact-title">Nationsjurist</div>
+						<div class="contact-name">Agnes Domar</div>
+						<div class="contact-email">nationsjurist@v-dala.se</div>
+					</div>
+					
+					<div class="contact">
+						<img class="contact-image" src="../images/contact/sofia_axelsson.jpg"/>
+						<div class="contact-title">Jämlikhetsombud</div>
+						<div class="contact-name">Sofia Axelsson</div>
+						<div class="contact-email">jamo@v-dala.se</div>
+						<div class="contact-description">Jämlikhetsombudet kan du vända dig till om du upplevt trakasserier eller orättvis behandling på nationen.</div>
+					</div>
+
+					<div class="contact">
+						<img class="contact-image" src="../images/contact/theo_nygren.jpg"/>
+						<div class="contact-title">Alkoholombud</div>
+						<div class="contact-name">Theo Nygren</div>
+						<div class="contact-email">alko@v-dala.se</div>
+						<div class="contact-description">Alkoholombudsmannen kan du prata med om du är orolig för att du själv eller en kompis har alkoholproblem.</div>
+					</div>
+			
 			</div>
 		</div>
 	</body>
