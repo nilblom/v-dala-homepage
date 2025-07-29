@@ -112,7 +112,8 @@ contact_images = [
 	(r"sources\images\contact", "theo_nygren.jpg"),
 	(r"sources\images\contact", "karin_bjork.jpg"),
 	(r"sources\images\contact", "linnea_nilsson.jpg"),
-	(r"sources\images\contact", "axel_angsback_folin.jpg")
+	(r"sources\images\contact", "axel_angsback_folin.jpg"),
+	(r"sources\images\contact", "tind_andrahansson.png")
 
 ]
 
