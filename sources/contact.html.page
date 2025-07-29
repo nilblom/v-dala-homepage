@@ -371,6 +371,61 @@
 				</div>
 			</div>
 
+			<div class="page-single">
+
+				<div class="title">Informationsutskottet</div>
+					<div class="contact-group-information">Informationsutskottet samordnar nationens informationskanaler och marknadsför nationens aktiviteter.</div>
+
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Informationssekreterare</div>
+						<div class="contact-name">Frida Stenmark</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Bitr. Informationssekreterare</div>
+						<div class="contact-name">Nils Blomqvist</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ledamot</div>
+						<div class="contact-name">Josefine Abrahamsson</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ledamot</div>
+						<div class="contact-name">Hillevi Lönberg Siri</div>
+					</div>										
+				</div>
+
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ledamot</div>
+						<div class="contact-name">Elin Matsson</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ledamot</div>
+						<div class="contact-name">Sofia Skoglösa</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Ledamot</div>
+						<div class="contact-name">Didrik Wirkkala</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Nationsöversättare</div>
+						<div class="contact-name">Adam Prud'homme & Hannes Leijon</div>
+						<div class="contact-email">translation@v-dala.se</div>
+					</div>										
+				</div>				
+			</div>
+
+
+
 			<include filename="sources/kontakta.html.part"/>
 		</div>
 	</body>
