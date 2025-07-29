@@ -426,6 +426,24 @@
 					<div class="contact-email">translation@v-dala.se</div>
 				</div>
 
+				<div class="title">Internationella utskottet</div>
+	
+				<div class="contact-group-information">Internationella utskottet har hand om nationens internationella medlemmar.</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Internationell sekreterare</div>
+					<div class="contact-name">Filip Dagerholt</div>
+					<div class="contact-email">iu@v-dala.se</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Biträdande internationell sekreterare</div>
+					<div class="contact-name">Felix Athill Svensson</div>
+					<div class="contact-email">iu@v-dala.se</div>
+				</div>
+
 			</div>
 		</div>
 	</body>
