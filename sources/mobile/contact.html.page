@@ -462,6 +462,17 @@
 					<div class="contact-email">1lg@khlg.se</div>
 				</div>
 
+				<div class="title">Ridårarna</div>
+	
+				<div class="contact-group-information">Spexföreningen ägnar sig åt komisk teater med publikinteraktion och framträder på nationens gasker och tillställningar.</div>
+
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/tind_andrahansson.png"/>
+					<div class="contact-title">Ordförande</div>
+					<div class="contact-name">Tind Andrahandsson</div>
+					<div class="contact-email">spexet@v-dala.se</div>
+				</div>
+
 			</div>
 		</div>
 	</body>
