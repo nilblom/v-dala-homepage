@@ -351,6 +351,26 @@
 				</div>
 			</div>
 
+			<div class="page-single">
+				<div class="title">Idrottsutskottet</div>
+				<div class="contact-group-information">Idrottsutskottet anordnar veckovisa träningar och idrottsaktiviteter.</div>
+
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Idrottssekreterare</div>
+						<div class="contact-name">Smilla Parkler</div>
+						<div class="contact-email">if@v-dala.se</div>
+					</div>
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Biträdande Idrottssektreterare</div>
+						<div class="contact-name">Ida Trabold</div>
+						<div class="contact-email">if@v-dala.se</div>
+					</div>
+				</div>
+			</div>
+
 			<include filename="sources/kontakta.html.part"/>
 		</div>
 	</body>
