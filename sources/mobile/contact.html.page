@@ -354,6 +354,24 @@
 					       <div class="contact-name">Agnes Sollerman</div>
 					       <div class="contact-email">ku@v-dala.se</div>
 					</div>
+
+					<div class="title">Idrottsutskottet</div>
+
+					<div class="contact-group-information">Idrottsutskottet anordnar veckovisa träningar och idrottsaktiviteter.</div>
+
+					<div class="contact">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Idrottssekreterare</div>
+						<div class="contact-name">Smilla Parkler</div>
+						<div class="contact-email">if@v-dala.se</div>
+					</div>
+
+					<div class="contact">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Biträdande Idrottssektreterare</div>
+						<div class="contact-name">Ida Trabold</div>
+						<div class="contact-email">if@v-dala.se</div>
+					</div>
 			</div>
 		</div>
 	</body>
