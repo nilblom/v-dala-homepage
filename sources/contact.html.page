@@ -445,7 +445,26 @@
 				</div>
 			</div>
 
+			<div class="page-single">
 
+				<div class="title">ab Kruthornen & Letta Gardet</div>
+				<div class="contact-group-information">Nationens egen blåsorkester med balett.</div>
+
+				<div class="page-single-row">
+					<div class="page-single-box-1-4 page-single--leftmost-box">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Förste Kruthorn</div>
+						<div class="contact-name">Liselott Källsten</div>
+						<div class="contact-email">1kh@khlg.se</div>
+					</div>
+					<div class="page-single-box-1-4">
+						<img class="contact-image-placeholder"/>
+						<div class="contact-title">Första Lettgardist</div>
+						<div class="contact-name">Sarah Ågren</div>
+						<div class="contact-email">1lg@khlg.se</div>
+					</div>
+				</div>
+			</div>
 
 			<include filename="sources/kontakta.html.part"/>
 		</div>
