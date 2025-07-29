@@ -444,6 +444,24 @@
 					<div class="contact-email">iu@v-dala.se</div>
 				</div>
 
+				<div class="title">ab Kruthornen & Letta Gardet</div>
+	
+				<div class="contact-group-information">Nationens egen blåsorkester med balett.</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Förste Kruthorn</div>
+					<div class="contact-name">Liselott Källsten</div>
+					<div class="contact-email">1kh@khlg.se</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Första Lettgardist</div>
+					<div class="contact-name">Sarah Ågren</div>
+					<div class="contact-email">1lg@khlg.se</div>
+				</div>
+
 			</div>
 		</div>
 	</body>
