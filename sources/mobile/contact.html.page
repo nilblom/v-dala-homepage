@@ -263,168 +263,168 @@
 
 				<div class="title" t="Counselling">Rådgivning</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Arbetsmiljö- och trivselutskottet</div>
-						<div class="contact-email">arbtru@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/hans_degreus.jpg"/>
-						<div class="contact-title">Nationskaplan</div>
-						<div class="contact-name">Hans Degréus</div>
-						<div class="contact-email">nationskaplan@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/agnes_domar.jpg"/>
-						<div class="contact-title">Nationsjurist</div>
-						<div class="contact-name">Agnes Domar</div>
-						<div class="contact-email">nationsjurist@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/sofia_axelsson.jpg"/>
-						<div class="contact-title">Jämlikhetsombud</div>
-						<div class="contact-name">Sofia Axelsson</div>
-						<div class="contact-email">jamo@v-dala.se</div>
-						<div class="contact-description">Jämlikhetsombudet kan du vända dig till om du upplevt trakasserier eller orättvis behandling på nationen.</div>
-					</div>
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Arbetsmiljö- och trivselutskottet</div>
+					<div class="contact-email">arbtru@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/hans_degreus.jpg"/>
+					<div class="contact-title">Nationskaplan</div>
+					<div class="contact-name">Hans Degréus</div>
+					<div class="contact-email">nationskaplan@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/agnes_domar.jpg"/>
+					<div class="contact-title">Nationsjurist</div>
+					<div class="contact-name">Agnes Domar</div>
+					<div class="contact-email">nationsjurist@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/sofia_axelsson.jpg"/>
+					<div class="contact-title">Jämlikhetsombud</div>
+					<div class="contact-name">Sofia Axelsson</div>
+					<div class="contact-email">jamo@v-dala.se</div>
+					<div class="contact-description">Jämlikhetsombudet kan du vända dig till om du upplevt trakasserier eller orättvis behandling på nationen.</div>
+				</div>
 
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/theo_nygren.jpg"/>
-						<div class="contact-title">Alkoholombud</div>
-						<div class="contact-name">Theo Nygren</div>
-						<div class="contact-email">alko@v-dala.se</div>
-						<div class="contact-description">Alkoholombudsmannen kan du prata med om du är orolig för att du själv eller en kompis har alkoholproblem.</div>
-					</div>
-			
-					<div class="title" t="Counselling">Rådgivning</div>
-
-					<div class="contact-group-information">Biblioteksutskottet driver nationens bibliotek. Tel. 018-13 15 86.</div>
-					
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/karin_bjork.jpg"/>
-						<div class="contact-title">Bibliotekarie</div>
-						<div class="contact-name">Karin Björk</div>
-						<div class="contact-email">bibliotekarie@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image" src="../images/contact/linnea_nilsson.jpg"/>
-						<div class="contact-title">Biträdande bibliotekarie</div>
-						<div class="contact-name">Linnea Nilsson</div>
-						<div class="contact-email">bibliotekarie@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Arkivarie</div>
-						<div class="contact-name">Mathilda Meijling</div>
-						<div class="contact-email">arkivarie@v-dala.se</div>
-					</div>
-					
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Biträdande Arkivarie</div>
-						<div class="contact-name">Erik Sjögren Tergius</div>
-					</div>
-
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Antikvarie</div>
-						<div class="contact-name">Teodor Eriksson</div>
-						<div class="contact-email">antikvarie@v-dala.se</div>
-					</div>
-
-					<div class="title">Kontaktutskottet</div>
-
-					<div class="contact-group-information">Kontaktutskottet har hand om nationens nya medlemmar.</div>
-
-					<div class="contact">
-					       <img class="contact-image" src="../images/contact/axel_angsback_folin.jpg"/>
-					       <div class="contact-title">Kontaktsekreterare</div>
-					       <div class="contact-name">Axel Ängsback Folin</div>
-					       <div class="contact-email">ku@v-dala.se</div>
-					</div>
-
-					<div class="contact">
-					       <img class="contact-image-placeholder"/>
-					       <div class="contact-title">Biträdande kontaktsekreterare</div>
-					       <div class="contact-name">Agnes Sollerman</div>
-					       <div class="contact-email">ku@v-dala.se</div>
-					</div>
-
-					<div class="title">Idrottsutskottet</div>
-
-					<div class="contact-group-information">Idrottsutskottet anordnar veckovisa träningar och idrottsaktiviteter.</div>
-
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Idrottssekreterare</div>
-						<div class="contact-name">Smilla Parkler</div>
-						<div class="contact-email">if@v-dala.se</div>
-					</div>
-
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Biträdande Idrottssektreterare</div>
-						<div class="contact-name">Ida Trabold</div>
-						<div class="contact-email">if@v-dala.se</div>
-					</div>
-
-					<div class="title">Informationsutskottet</div>
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/theo_nygren.jpg"/>
+					<div class="contact-title">Alkoholombud</div>
+					<div class="contact-name">Theo Nygren</div>
+					<div class="contact-email">alko@v-dala.se</div>
+					<div class="contact-description">Alkoholombudsmannen kan du prata med om du är orolig för att du själv eller en kompis har alkoholproblem.</div>
+				</div>
 		
-					<div class="contact-group-information">Informationsutskottet samordnar nationens informationskanaler och marknadsför nationens aktiviteter.</div>
+				<div class="title" t="Counselling">Rådgivning</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Informationssekreterare</div>
-						<div class="contact-name">Frida Stenmark</div>
-					</div>
+				<div class="contact-group-information">Biblioteksutskottet driver nationens bibliotek. Tel. 018-13 15 86.</div>
+				
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/karin_bjork.jpg"/>
+					<div class="contact-title">Bibliotekarie</div>
+					<div class="contact-name">Karin Björk</div>
+					<div class="contact-email">bibliotekarie@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image" src="../images/contact/linnea_nilsson.jpg"/>
+					<div class="contact-title">Biträdande bibliotekarie</div>
+					<div class="contact-name">Linnea Nilsson</div>
+					<div class="contact-email">bibliotekarie@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Arkivarie</div>
+					<div class="contact-name">Mathilda Meijling</div>
+					<div class="contact-email">arkivarie@v-dala.se</div>
+				</div>
+				
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Biträdande Arkivarie</div>
+					<div class="contact-name">Erik Sjögren Tergius</div>
+				</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Bitr. Informationssekreterare</div>
-						<div class="contact-name">Nils Blomqvist</div>
-					</div>
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Antikvarie</div>
+					<div class="contact-name">Teodor Eriksson</div>
+					<div class="contact-email">antikvarie@v-dala.se</div>
+				</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Ledamot</div>
-						<div class="contact-name">Josefine Abrahamsson</div>
-					</div>
+				<div class="title">Kontaktutskottet</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Ledamot</div>
-						<div class="contact-name">Hillevi Lönberg Siri</div>
-					</div>										
+				<div class="contact-group-information">Kontaktutskottet har hand om nationens nya medlemmar.</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Ledamot</div>
-						<div class="contact-name">Elin Matsson</div>
-					</div>
+				<div class="contact">
+				       <img class="contact-image" src="../images/contact/axel_angsback_folin.jpg"/>
+				       <div class="contact-title">Kontaktsekreterare</div>
+				       <div class="contact-name">Axel Ängsback Folin</div>
+				       <div class="contact-email">ku@v-dala.se</div>
+				</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Ledamot</div>
-						<div class="contact-name">Sofia Skoglösa</div>
-					</div>
+				<div class="contact">
+				       <img class="contact-image-placeholder"/>
+				       <div class="contact-title">Biträdande kontaktsekreterare</div>
+				       <div class="contact-name">Agnes Sollerman</div>
+				       <div class="contact-email">ku@v-dala.se</div>
+				</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Ledamot</div>
-						<div class="contact-name">Didrik Wirkkala</div>
-					</div>
+				<div class="title">Idrottsutskottet</div>
 
-					<div class="contact">
-						<img class="contact-image-placeholder"/>
-						<div class="contact-title">Nationsöversättare</div>
-						<div class="contact-name">Adam Prud'homme & Hannes Leijon</div>
-						<div class="contact-email">translation@v-dala.se</div>
-					</div>
+				<div class="contact-group-information">Idrottsutskottet anordnar veckovisa träningar och idrottsaktiviteter.</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Idrottssekreterare</div>
+					<div class="contact-name">Smilla Parkler</div>
+					<div class="contact-email">if@v-dala.se</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Biträdande Idrottssektreterare</div>
+					<div class="contact-name">Ida Trabold</div>
+					<div class="contact-email">if@v-dala.se</div>
+				</div>
+
+				<div class="title">Informationsutskottet</div>
+	
+				<div class="contact-group-information">Informationsutskottet samordnar nationens informationskanaler och marknadsför nationens aktiviteter.</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Informationssekreterare</div>
+					<div class="contact-name">Frida Stenmark</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Bitr. Informationssekreterare</div>
+					<div class="contact-name">Nils Blomqvist</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Ledamot</div>
+					<div class="contact-name">Josefine Abrahamsson</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Ledamot</div>
+					<div class="contact-name">Hillevi Lönberg Siri</div>
+				</div>										
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Ledamot</div>
+					<div class="contact-name">Elin Matsson</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Ledamot</div>
+					<div class="contact-name">Sofia Skoglösa</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Ledamot</div>
+					<div class="contact-name">Didrik Wirkkala</div>
+				</div>
+
+				<div class="contact">
+					<img class="contact-image-placeholder"/>
+					<div class="contact-title">Nationsöversättare</div>
+					<div class="contact-name">Adam Prud'homme & Hannes Leijon</div>
+					<div class="contact-email">translation@v-dala.se</div>
+				</div>
 
 			</div>
 		</div>
